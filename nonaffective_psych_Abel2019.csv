@@ -1,0 +1,163 @@
+code,coding_system,entity,list_name,description
+E104.00,Read,diagnostic,Non-affective psychotic disorders,Acute schizophrenic episode
+Eu2z.11,Read,diagnostic,Non-affective psychotic disorders,[X]Psychosis NOS
+E10..00,Read,diagnostic,Non-affective psychotic disorders,Schizophrenic disorders
+E103.00,Read,diagnostic,Non-affective psychotic disorders,Paranoid schizophrenia
+1B1E.00,Read,symptom,Non-affective psychotic disorders,Hallucinations
+1BH..00,Read,diagnostic,Non-affective psychotic disorders,Delusions
+Eu22011,Read,diagnostic,Non-affective psychotic disorders,[X]Paranoid psychosis
+R001.00,Read,symptom,Non-affective psychotic disorders,[D]Hallucinations
+E13z.11,Read,diagnostic,Non-affective psychotic disorders,Psychotic episode NOS
+E121.00,Read,diagnostic,Non-affective psychotic disorders,Chronic paranoid psychosis
+E100200,Read,diagnostic,Non-affective psychotic disorders,Chronic schizophrenic
+E12..00,Read,diagnostic,Non-affective psychotic disorders,Paranoid states
+285..11,Read,diagnostic,Non-affective psychotic disorders,"Psychotic condition, insight present"
+Eu22015,Read,diagnostic,Non-affective psychotic disorders,[X]Paranoia
+1464.00,Read,diagnostic,Non-affective psychotic disorders,H/O: schizophrenia
+E132.00,Read,diagnostic,Non-affective psychotic disorders,Reactive confusion
+E10z.00,Read,diagnostic,Non-affective psychotic disorders,Schizophrenia NOS
+Eu0z.12,Read,symptom,Non-affective psychotic disorders,[X]Symptomatic psychosis NOS
+E103z00,Read,diagnostic,Non-affective psychotic disorders,Paranoid schizophrenia NOS
+Eu22012,Read,diagnostic,Non-affective psychotic disorders,[X]Paranoid state
+Eu2z.00,Read,diagnostic,Non-affective psychotic disorders,[X]Unspecified nonorganic psychosis
+Eu23200,Read,diagnostic,Non-affective psychotic disorders,[X]Acute schizophrenia-like psychotic disorder
+Eu24.13,Read,diagnostic,Non-affective psychotic disorders,[X]Induced psychotic disorder
+R001400,Read,symptom,Non-affective psychotic disorders,[D]Visual hallucinations
+R001000,Read,symptom,Non-affective psychotic disorders,"[D]Hallucinations, auditory"
+225E.00,Read,diagnostic,Non-affective psychotic disorders,O/E - paranoid delusions
+E12z.00,Read,diagnostic,Non-affective psychotic disorders,Paranoid psychosis NOS
+146H.00,Read,diagnostic,Non-affective psychotic disorders,H/O: psychosis
+E120.00,Read,diagnostic,Non-affective psychotic disorders,Simple paranoid state
+E13z.00,Read,diagnostic,Non-affective psychotic disorders,Nonorganic psychosis NOS
+E122.00,Read,diagnostic,Non-affective psychotic disorders,Paraphrenia
+E133.00,Read,diagnostic,Non-affective psychotic disorders,Acute paranoid reaction
+F481K00,Read,symptom,Non-affective psychotic disorders,Visual hallucinations
+E100000,Read,diagnostic,Non-affective psychotic disorders,Unspecified schizophrenia
+E1...00,Read,diagnostic,Non-affective psychotic disorders,Non-organic psychoses
+E13y.00,Read,diagnostic,Non-affective psychotic disorders,Other reactive psychoses
+E1y..00,Read,diagnostic,Non-affective psychotic disorders,Other specified non-organic psychoses
+Eu20000,Read,diagnostic,Non-affective psychotic disorders,[X]Paranoid schizophrenia
+Eu2..00,Read,diagnostic,Non-affective psychotic disorders,"[X]Schizophrenia, schizotypal and delusional disorders"
+E130.11,Read,diagnostic,Non-affective psychotic disorders,Psychotic reactive depression
+1BH..11,Read,diagnostic,Non-affective psychotic disorders,Delusion
+Eu20y13,Read,diagnostic,Non-affective psychotic disorders,[X]Schizophrenifrm psychos NOS
+R001z00,Read,symptom,Non-affective psychotic disorders,[D]Hallucinations NOS
+E13..11,Read,diagnostic,Non-affective psychotic disorders,Reactive psychoses
+Eu20211,Read,diagnostic,Non-affective psychotic disorders,[X]Catatonic stupor
+Eu23012,Read,diagnostic,Non-affective psychotic disorders,[X]Cycloid psychosis
+Eu23100,Read,diagnostic,Non-affective psychotic disorders,[X]Acute polymorphic psychot disord with symp of schizophren
+ZV11000,Read,diagnostic,Non-affective psychotic disorders,[V]Personal history of schizophrenia
+E1z..00,Read,diagnostic,Non-affective psychotic disorders,Non-organic psychosis NOS
+1BH3.00,Read,symptom,Non-affective psychotic disorders,Paranoid ideation
+286..11,Read,diagnostic,Non-affective psychotic disorders,Poor insight into psychotic condition
+E13y100,Read,diagnostic,Non-affective psychotic disorders,Brief reactive psychosis
+E100100,Read,diagnostic,Non-affective psychotic disorders,Subchronic schizophrenia
+Eu20511,Read,diagnostic,Non-affective psychotic disorders,[X]Chronic undifferentiated schizophrenia
+E134.00,Read,diagnostic,Non-affective psychotic disorders,Psychogenic paranoid psychosis
+Eu23.00,Read,diagnostic,Non-affective psychotic disorders,[X]Acute and transient psychotic disorders
+E102.00,Read,diagnostic,Non-affective psychotic disorders,Catatonic schizophrenia
+E13yz00,Read,diagnostic,Non-affective psychotic disorders,Other reactive psychoses NOS
+Eu23112,Read,diagnostic,Non-affective psychotic disorders,[X]Cycloid psychosis with symptoms of schizophrenia
+8HHs.00,Read,diagnostic,Non-affective psychotic disorders,Referral to psychosis early intervention service
+Eu23312,Read,diagnostic,Non-affective psychotic disorders,[X]Psychogenic paranoid psychosis
+Eu22.00,Read,diagnostic,Non-affective psychotic disorders,[X]Persistent delusional disorders
+Eu23z12,Read,diagnostic,Non-affective psychotic disorders,[X]Reactive psychosis
+E101.00,Read,diagnostic,Non-affective psychotic disorders,Hebephrenic schizophrenia
+Eu2y.00,Read,diagnostic,Non-affective psychotic disorders,[X]Other nonorganic psychotic disorders
+E103200,Read,diagnostic,Non-affective psychotic disorders,Chronic paranoid schizophrenia
+E12yz00,Read,diagnostic,Non-affective psychotic disorders,Other paranoid states NOS
+Eu20214,Read,diagnostic,Non-affective psychotic disorders,[X]Schizophrenic flexibilatis cerea
+E12y.00,Read,diagnostic,Non-affective psychotic disorders,Other paranoid states
+Eu23z11,Read,diagnostic,Non-affective psychotic disorders,[X]Brief reactive psychosis NOS
+Eu2y.11,Read,diagnostic,Non-affective psychotic disorders,[X]Chronic hallucinatory psychosis
+E13..00,Read,diagnostic,Non-affective psychotic disorders,Other nonorganic psychoses
+E100.00,Read,diagnostic,Non-affective psychotic disorders,Simple schizophrenia
+1BH1.00,Read,symptom,Non-affective psychotic disorders,Grandiose delusions
+E10y000,Read,diagnostic,Non-affective psychotic disorders,Atypical schizophrenia
+E103000,Read,diagnostic,Non-affective psychotic disorders,Unspecified paranoid schizophrenia
+Eu23z00,Read,diagnostic,Non-affective psychotic disorders,"[X]Acute and transient psychotic disorder, unspecified"
+Eu20.00,Read,diagnostic,Non-affective psychotic disorders,[X]Schizophrenia
+Eu22000,Read,diagnostic,Non-affective psychotic disorders,[X]Delusional disorder
+Eu20z00,Read,diagnostic,Non-affective psychotic disorders,"[X]Schizophrenia, unspecified"
+Eu20600,Read,diagnostic,Non-affective psychotic disorders,[X]Simple schizophrenia
+Eu20213,Read,diagnostic,Non-affective psychotic disorders,[X]Schizophrenic catatonia
+E103500,Read,diagnostic,Non-affective psychotic disorders,Paranoid schizophrenia in remission
+Eu23000,Read,diagnostic,Non-affective psychotic disorders,[X]Acute polymorphic psychot disord without symp of schizoph
+E106.00,Read,diagnostic,Non-affective psychotic disorders,Residual schizophrenia
+E10y.00,Read,diagnostic,Non-affective psychotic disorders,Other schizophrenia
+Eu21.00,Read,diagnostic,Non-affective psychotic disorders,[X]Schizotypal disorder
+Eu21.15,Read,diagnostic,Non-affective psychotic disorders,[X]Prodromal schizophrenia
+Eu22y11,Read,diagnostic,Non-affective psychotic disorders,[X]Delusional dysmorphophobia
+Eu25112,Read,diagnostic,Non-affective psychotic disorders,"[X]Schizophreniform psychosis, depressive type"
+Eu20100,Read,diagnostic,Non-affective psychotic disorders,[X]Hebephrenic schizophrenia
+1BH0.00,Read,diagnostic,Non-affective psychotic disorders,Delusion of persecution
+Eu23300,Read,diagnostic,Non-affective psychotic disorders,[X]Other acute predominantly delusional psychotic disorders
+E100400,Read,diagnostic,Non-affective psychotic disorders,Acute exacerbation of chronic schizophrenia
+Eu23y00,Read,diagnostic,Non-affective psychotic disorders,[X]Other acute and transient psychotic disorders
+Eu24.12,Read,diagnostic,Non-affective psychotic disorders,[X]Induced paranoid disorder
+Eu22013,Read,diagnostic,Non-affective psychotic disorders,[X]Paraphrenia - late
+E101z00,Read,diagnostic,Non-affective psychotic disorders,Hebephrenic schizophrenia NOS
+Eu22z00,Read,diagnostic,Non-affective psychotic disorders,"[X]Persistent delusional disorder, unspecified"
+Eu20y00,Read,diagnostic,Non-affective psychotic disorders,[X]Other schizophrenia
+E10yz00,Read,diagnostic,Non-affective psychotic disorders,Other schizophrenia NOS
+Eu21.16,Read,diagnostic,Non-affective psychotic disorders,[X]Pseudoneurotic schizophrenia
+Eu23011,Read,diagnostic,Non-affective psychotic disorders,[X]Bouffee delirante
+Eu20011,Read,diagnostic,Non-affective psychotic disorders,[X]Paraphrenic schizophrenia
+Eu22y12,Read,diagnostic,Non-affective psychotic disorders,[X]Involutional paranoid state
+E123.11,Read,diagnostic,Non-affective psychotic disorders,Folie a deux
+Eu24.00,Read,diagnostic,Non-affective psychotic disorders,[X]Induced delusional disorder
+E103300,Read,diagnostic,Non-affective psychotic disorders,Acute exacerbation of subchronic paranoid schizophrenia
+Eu25012,Read,diagnostic,Non-affective psychotic disorders,"[X]Schizophreniform psychosis, manic type"
+225F.00,Read,diagnostic,Non-affective psychotic disorders,O/E - delusion of persecution
+E103400,Read,diagnostic,Non-affective psychotic disorders,Acute exacerbation of chronic paranoid schizophrenia
+E100z00,Read,diagnostic,Non-affective psychotic disorders,Simple schizophrenia NOS
+Eu20111,Read,diagnostic,Non-affective psychotic disorders,[X]Disorganised schizophrenia
+Eu21.12,Read,diagnostic,Non-affective psychotic disorders,[X]Borderline schizophrenia
+Eu22111,Read,diagnostic,Non-affective psychotic disorders,[X]Capgras syndrome
+Eu22y13,Read,diagnostic,Non-affective psychotic disorders,[X]Paranoia querulans
+1BH2.00,Read,symptom,Non-affective psychotic disorders,Ideas of reference
+E100300,Read,diagnostic,Non-affective psychotic disorders,Acute exacerbation of subchronic schizophrenia
+E100500,Read,diagnostic,Non-affective psychotic disorders,Schizophrenia in remission
+E102000,Read,diagnostic,Non-affective psychotic disorders,Unspecified catatonic schizophrenia
+Eu23211,Read,diagnostic,Non-affective psychotic disorders,[X]Brief schizophreniform disorder
+Eu20300,Read,diagnostic,Non-affective psychotic disorders,[X]Undifferentiated schizophrenia
+Eu20200,Read,diagnostic,Non-affective psychotic disorders,[X]Catatonic schizophrenia
+Eu22100,Read,diagnostic,Non-affective psychotic disorders,[X]Delusional misidentification syndrome
+Eu21.14,Read,diagnostic,Non-affective psychotic disorders,[X]Prepsychotic schizophrenia
+E123.00,Read,diagnostic,Non-affective psychotic disorders,Shared paranoid disorder
+E102z00,Read,diagnostic,Non-affective psychotic disorders,Catatonic schizophrenia NOS
+Eu20500,Read,diagnostic,Non-affective psychotic disorders,[X]Residual schizophrenia
+Eu20212,Read,diagnostic,Non-affective psychotic disorders,[X]Schizophrenic catalepsy
+Eu21.13,Read,diagnostic,Non-affective psychotic disorders,[X]Latent schizophrenia
+Eu22014,Read,diagnostic,Non-affective psychotic disorders,[X]Sensitiver Beziehungswahn
+Eu22y00,Read,diagnostic,Non-affective psychotic disorders,[X]Other persistent delusional disorders
+E105.00,Read,diagnostic,Non-affective psychotic disorders,Latent schizophrenia
+E101000,Read,diagnostic,Non-affective psychotic disorders,Unspecified hebephrenic schizophrenia
+E12y000,Read,diagnostic,Non-affective psychotic disorders,Paranoia querulans
+E101500,Read,diagnostic,Non-affective psychotic disorders,Hebephrenic schizophrenia in remission
+E133.11,Read,diagnostic,Non-affective psychotic disorders,Bouffee delirante
+Eu23212,Read,diagnostic,Non-affective psychotic disorders,[X]Brief schizophrenifrm psych
+Eu21.17,Read,diagnostic,Non-affective psychotic disorders,[X]Pseudopsychopathic schizophrenia
+E100.11,Read,diagnostic,Non-affective psychotic disorders,Schizophrenia simplex
+212X.00,Read,diagnostic,Non-affective psychotic disorders,Psychosis resolved
+212W.00,Read,diagnostic,Non-affective psychotic disorders,Schizophrenia resolved
+Eu21.11,Read,diagnostic,Non-affective psychotic disorders,[X]Latent schizophrenic reaction
+Eu20311,Read,diagnostic,Non-affective psychotic disorders,[X]Atypical schizophrenia
+E10y.11,Read,diagnostic,Non-affective psychotic disorders,Cenesthopathic schizophrenia
+E104.11,Read,diagnostic,Non-affective psychotic disorders,Oneirophrenia
+Eu20y12,Read,diagnostic,Non-affective psychotic disorders,[X]Schizophreniform disord NOS
+E105200,Read,diagnostic,Non-affective psychotic disorders,Chronic latent schizophrenia
+Eu23214,Read,diagnostic,Non-affective psychotic disorders,[X]Schizophrenic reaction
+E105500,Read,diagnostic,Non-affective psychotic disorders,Latent schizophrenia in remission
+E101400,Read,diagnostic,Non-affective psychotic disorders,Acute exacerbation of chronic hebephrenic schizophrenia
+Eu22200,Read,diagnostic,Non-affective psychotic disorders,[X]Cotard syndrome
+E10y100,Read,diagnostic,Non-affective psychotic disorders,Coenesthopathic schizophrenia
+E102100,Read,diagnostic,Non-affective psychotic disorders,Subchronic catatonic schizophrenia
+Eu22300,Read,diagnostic,Non-affective psychotic disorders,[X]Paranoid state in remission
+Eu26.00,Read,diagnostic,Non-affective psychotic disorders,[X]Nonorganic psychosis in remission
+E105000,Read,diagnostic,Non-affective psychotic disorders,Unspecified latent schizophrenia
+E102500,Read,diagnostic,Non-affective psychotic disorders,Catatonic schizophrenia in remission
+E105z00,Read,diagnostic,Non-affective psychotic disorders,Latent schizophrenia NOS
+E103100,Read,diagnostic,Non-affective psychotic disorders,Subchronic paranoid schizophrenia
+Eu24.11,Read,diagnostic,Non-affective psychotic disorders,[X]Folie a deux
+E102400,Read,diagnostic,Non-affective psychotic disorders,Acute exacerbation of chronic catatonic schizophrenia

@@ -1,0 +1,123 @@
+code,coding_system,entity,list_name,description
+E21z.11,Read,diagnostic,Personality disorders,Psychopathic personality
+E214100,Read,diagnostic,Personality disorders,Obsessional personality
+E21y500,Read,diagnostic,Personality disorders,Immature personality disorder
+E2C0.00,Read,symptom,Personality disorders,Aggressive unsocial conduct disorder
+E21..00,Read,diagnostic,Personality disorders,Personality disorders
+E2C..00,Read,symptom,Personality disorders,Disturbance of conduct NEC
+E21y711,Read,diagnostic,Personality disorders,Neurotic personality
+Eu63300,Read,diagnostic,Personality disorders,[X]Trichotillomania
+E212.00,Read,diagnostic,Personality disorders,Schizoid personality disorder
+E215200,Read,diagnostic,Personality disorders,Emotionally unstable personality
+E216.00,Read,diagnostic,Personality disorders,Inadequate personality disorder
+E215.11,Read,diagnostic,Personality disorders,Hysterical personality disorders
+E210.00,Read,diagnostic,Personality disorders,Paranoid personality disorder
+E213.11,Read,diagnostic,Personality disorders,Aggressive personality
+Eu60300,Read,diagnostic,Personality disorders,[X]Emotionally unstable personality disorder
+Eu60600,Read,diagnostic,Personality disorders,[X]Anxious [avoidant] personality disorder
+Eu63011,Read,diagnostic,Personality disorders,[X]Compulsive gambling
+Eu34112,Read,diagnostic,Personality disorders,[X]Depressive personality disorder
+Eu63200,Read,diagnostic,Personality disorders,[X]Pathological stealing
+E211100,Read,diagnostic,Personality disorders,Hypomanic personality disorder
+E211300,Read,diagnostic,Personality disorders,Cyclothymic personality disorder
+E212z00,Read,diagnostic,Personality disorders,Schizoid personality disorder NOS
+E211.00,Read,diagnostic,Personality disorders,Affective personality disorder
+E21z.00,Read,diagnostic,Personality disorders,Personality disorder NOS
+E21yz00,Read,diagnostic,Personality disorders,Other personality disorder NOS
+E211000,Read,diagnostic,Personality disorders,Unspecified affective personality disorder
+Eu60513,Read,diagnostic,Personality disorders,[X]Obsessive-compulsive personality disorder
+E21y200,Read,diagnostic,Personality disorders,Borderline personality disorder
+E215100,Read,diagnostic,Personality disorders,Munchausen's syndrome
+E216.13,Read,diagnostic,Personality disorders,Labile personality
+E2C3100,Read,diagnostic,Personality disorders,Pathological gambling
+Eu60311,Read,diagnostic,Personality disorders,[X]Aggressive personality disorder
+E214.00,Read,diagnostic,Personality disorders,Compulsive personality disorders
+Eu63.00,Read,diagnostic,Personality disorders,[X]Habit and impulse disorders
+Eu6..00,Read,diagnostic,Personality disorders,[X]Disorders of adult personality and behaviour
+E21y700,Read,diagnostic,Personality disorders,Psychoneurotic personality disorder
+Eu60000,Read,diagnostic,Personality disorders,[X]Paranoid personality disorder
+E216.12,Read,diagnostic,Personality disorders,Dependent personality
+Eu60214,Read,diagnostic,Personality disorders,[X]Psychopathic personality disorder
+Eu60512,Read,diagnostic,Personality disorders,[X]Obsessional personality disorder
+E213.00,Read,diagnostic,Personality disorders,Explosive personality disorder
+Eu34013,Read,diagnostic,Personality disorders,[X]Cyclothymic personality
+E217.00,Read,diagnostic,Personality disorders,Antisocial or sociopathic personality disorder
+E21y.00,Read,diagnostic,Personality disorders,Other personality disorders
+Eu63y00,Read,diagnostic,Personality disorders,[X]Other habit and impulse disorders
+28L..00,Read,symptom,Personality disorders,O/E - impulsive behaviour
+Eu34011,Read,diagnostic,Personality disorders,[X]Affective personality disorder
+Eu21.18,Read,diagnostic,Personality disorders,[X]Schizotypal personality disorder
+E215.00,Read,diagnostic,Personality disorders,Histrionic personality disorders
+E21y400,Read,diagnostic,Personality disorders,Eccentric personality disorder
+Eu60411,Read,diagnostic,Personality disorders,[X]Hysterical personality disorder
+E21..11,Read,diagnostic,Personality disorders,Neurotic personality disorder
+E214000,Read,diagnostic,Personality disorders,Anankastic personality
+Eu61.00,Read,diagnostic,Personality disorders,[X]Mixed and other personality disorders
+Eu6y111,Read,diagnostic,Personality disorders,[X] Munchausens syndrome
+Eu60200,Read,diagnostic,Personality disorders,[X]Dissocial personality disorder
+Eu60312,Read,diagnostic,Personality disorders,[X]Borderline personality disorder
+Eu62015,Read,diagnostic,Personality disorders,[X]Personality change after torture
+Eu60700,Read,diagnostic,Personality disorders,[X]Dependent personality disorder
+Eu63100,Read,diagnostic,Personality disorders,[X]Pathological fire-setting
+Eu60212,Read,diagnostic,Personality disorders,[X]Antisocial personality disorder
+Eu60713,Read,diagnostic,Personality disorders,[X]Passive personality disorder
+E214z00,Read,diagnostic,Personality disorders,Compulsive personality disorder NOS
+Eu62y11,Read,diagnostic,Personality disorders,[X]Chronic pain personality syndrome
+Eu6yy00,Read,diagnostic,Personality disorders,[X]Other specified disorders of adult personality/behaviour
+Eu62y00,Read,diagnostic,Personality disorders,[X]Other enduring personality changes
+E21y100,Read,diagnostic,Personality disorders,Avoidant personality disorder
+E21y300,Read,diagnostic,Personality disorders,Passive-aggressive personality disorder
+E21y000,Read,diagnostic,Personality disorders,Narcissistic personality disorder
+Eu62100,Read,diagnostic,Personality disorders,[X]Enduring personality change after psychiatric illness
+Eu6y000,Read,diagnostic,Personality disorders,[X]Elaboration of physical symptoms for psychological reason
+Eu60712,Read,diagnostic,Personality disorders,[X]Inadequate personality disorder
+Eu60511,Read,diagnostic,Personality disorders,[X]Compulsive personality disorder
+Eu60100,Read,diagnostic,Personality disorders,[X]Schizoid personality disorder
+Eu6y100,Read,diagnostic,Personality disorders,[X]Intent product/feign of symptom/disab eith physical/psych
+Eu60711,Read,diagnostic,Personality disorders,[X]Asthenic personality disorder
+Eu6z.00,Read,diagnostic,Personality disorders,[X]Unspecified disorder of adult personality and behaviour
+E214.11,Read,diagnostic,Personality disorders,Anancastic personality
+Eu60800,Read,diagnostic,Personality disorders,[X]Addictive personality
+Eu62014,Read,diagnostic,Personality disorders,[X]Personlty chang aft expos life-threat sit/victim/terrorsm
+E2C4.00,Read,symptom,Personality disorders,Mixed disturbance of conduct and emotion
+Eu60z00,Read,diagnostic,Personality disorders,"[X]Personality disorder, unspecified"
+Eu60400,Read,diagnostic,Personality disorders,[X]Histrionic personality disorder
+E215000,Read,diagnostic,Personality disorders,Unspecified histrionic personality disorder
+Eu60215,Read,diagnostic,Personality disorders,[X]Sociopathic personality disorder
+Eu63000,Read,diagnostic,Personality disorders,[X]Pathological gambling
+Eu6y200,Read,diagnostic,Personality disorders,[X]Munchausen's by proxy
+Eu62000,Read,diagnostic,Personality disorders,[X]Enduring personality change after catastrophic experience
+Eu60014,Read,diagnostic,Personality disorders,[X]Sensitive paranoid personality disorder
+E216.11,Read,diagnostic,Personality disorders,Asthenic personality
+Eu60y00,Read,diagnostic,Personality disorders,[X]Other specific personality disorders
+Eu60z12,Read,diagnostic,Personality disorders,[X]Pathological personality NOS
+Eu60y13,Read,diagnostic,Personality disorders,[X]Immature personality disorder
+Eu60.00,Read,diagnostic,Personality disorders,[X]Specific personality disorders
+Eu60y16,Read,diagnostic,Personality disorders,[X]Psychoneurotic personality disorder
+E211z00,Read,diagnostic,Personality disorders,Affective personality disorder NOS
+Eu60500,Read,diagnostic,Personality disorders,[X]Anankastic personality disorder
+Eu60y14,Read,diagnostic,Personality disorders,[X]Narcissistic personality disorder
+Eu62013,Read,diagnostic,Personality disorders,[X]Personality change aft prolong captiv+possib/being killed
+Eu34012,Read,diagnostic,Personality disorders,[X]Cycloid personality
+Eu60y11,Read,diagnostic,Personality disorders,[X]Eccentric personality disorder
+Eu62.00,Read,diagnostic,Personality disorders,[X]Enduring personality change not attrib to brain damag/dis
+Eu60213,Read,diagnostic,Personality disorders,[X]Asocial personality disorder
+Eu62011,Read,diagnostic,Personality disorders,[X]Personality change after concentration camp experiences
+Eu60z11,Read,diagnostic,Personality disorders,[X]Character neurosis NOS
+Eu60313,Read,diagnostic,Personality disorders,[X]Explosive personality disorder
+Eu63z00,Read,diagnostic,Personality disorders,"[X]Habit and impulse disorder, unspecified"
+Eu60714,Read,diagnostic,Personality disorders,[X]Self defeating personality disorder
+E215z00,Read,diagnostic,Personality disorders,Histrionic personality disorder NOS
+E212200,Read,diagnostic,Personality disorders,Schizotypal personality
+Eu6y.00,Read,diagnostic,Personality disorders,[X]Other disorders of adult personality and behaviour
+Eu62012,Read,diagnostic,Personality disorders,[X]Personality change after disasters
+E212000,Read,diagnostic,Personality disorders,Unspecified schizoid personality disorder
+E217.11,Read,diagnostic,Personality disorders,Amoral personality
+Eu60013,Read,diagnostic,Personality disorders,[X]Querulant personality disorder
+Eu60412,Read,diagnostic,Personality disorders,[X]Psychoinfantile personality disorder
+E21y600,Read,diagnostic,Personality disorders,Masochistic personality disorder
+Eu60y12,Read,diagnostic,Personality disorders,[X]Haltlose type personality disorder
+Eu62z00,Read,diagnostic,Personality disorders,"[X]Enduring personality change, unspecified"
+Eu60211,Read,diagnostic,Personality disorders,[X]Amoral personality disorder
+Eu6y300,Read,diagnostic,Personality disorders,[X]Factitious disorder
+Eu60011,Read,diagnostic,Personality disorders,[X]Expansive paranoid personality disorder

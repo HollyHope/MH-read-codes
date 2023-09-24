@@ -1,0 +1,132 @@
+code,coding_system,entity,list_name,description
+E2B..00,Read,diagnostic,Depression,Depressive disorder NEC
+Eu32z11,Read,diagnostic,Depression,[X]Depression NOS
+E112.14,Read,diagnostic,Depression,Endogenous depression
+E135.00,Read,diagnostic,Depression,Agitated depression
+E204.00,Read,diagnostic,Depression,Neurotic depression reactive type
+E290.00,Read,diagnostic,Depression,Brief depressive reaction
+2257.00,Read,symptom,Depression,O/E - depressed
+1B17.00,Read,symptom,Depression,Depressed
+E03y300,Read,diagnostic,Depression,Unspecified puerperal psychosis
+E11..12,Read,diagnostic,Depression,Depressive psychoses
+E204.11,Read,diagnostic,Depression,Postnatal depression
+1465.00,Read,diagnostic,Depression,H/O: depression
+62T1.00,Read,diagnostic,Depression,Puerperal depression
+1B17.12,Read,symptom,Depression,C/O - feeling unhappy
+Eu32z00,Read,diagnostic,Depression,"[X]Depressive episode, unspecified"
+E2B0.00,Read,diagnostic,Depression,Postviral depression
+Eu32z12,Read,diagnostic,Depression,[X]Depressive disorder NOS
+Eu33.00,Read,diagnostic,Depression,[X]Recurrent depressive disorder
+E11z100,Read,symptom,Depression,Rebound mood swings
+E2B1.00,Read,diagnostic,Depression,Chronic depression
+Eu32.00,Read,diagnostic,Depression,[X]Depressive episode
+1B17.11,Read,symptom,Depression,C/O - feeling depressed
+Eu53012,Read,diagnostic,Depression,[X]Postpartum depression NOS
+Eu3..00,Read,diagnostic,Depression,[X]Mood - affective disorders
+E112.11,Read,diagnostic,Depression,Agitated depression
+Eu32z14,Read,diagnostic,Depression,[X] Reactive depression NOS
+1BO..00,Read,symptom,Depression,Mood swings
+E113700,Read,diagnostic,Depression,Recurrent depression
+E112.12,Read,diagnostic,Depression,Endogenous depression first episode
+Eu32y00,Read,diagnostic,Depression,[X]Other depressive episodes
+E113.11,Read,diagnostic,Depression,Endogenous depression - recurrent
+E112.13,Read,diagnostic,Depression,Endogenous depression first episode
+E112z00,Read,diagnostic,Depression,Single major depressive episode NOS
+Eu32.13,Read,diagnostic,Depression,[X]Single episode of reactive depression
+Eu34113,Read,diagnostic,Depression,[X]Neurotic depression
+Eu34100,Read,diagnostic,Depression,[X]Dysthymia
+1B1I111,Read,symptom,Depression,C/O weepiness
+Eu34111,Read,diagnostic,Depression,[X]Depressive neurosis
+Eu33.15,Read,diagnostic,Depression,[X]SAD - Seasonal affective disorder
+Eu33.11,Read,diagnostic,Depression,[X]Recurrent episodes of depressive reaction
+Eu33.13,Read,diagnostic,Depression,[X]Recurrent episodes of reactive depression
+1BT..11,Read,symptom,Depression,Low mood
+Eu32.11,Read,diagnostic,Depression,[X]Single episode of depressive reaction
+E11z200,Read,diagnostic,Depression,Masked depression
+Eu32100,Read,diagnostic,Depression,[X]Moderate depressive episode
+Eu32200,Read,diagnostic,Depression,[X]Severe depressive episode without psychotic symptoms
+1B1U.00,Read,symptom,Depression,Symptoms of depression
+1BT..00,Read,symptom,Depression,Depressed mood
+1B1U.11,Read,symptom,Depression,Depressive symptoms
+E211200,Read,diagnostic,Depression,Depressive personality disorder
+E112.00,Read,diagnostic,Depression,Single major depressive episode
+Eu32400,Read,diagnostic,Depression,[X]Mild depression
+Eu32y11,Read,diagnostic,Depression,[X]Atypical depression
+E118.00,Read,diagnostic,Depression,Seasonal affective disorder
+Eu33212,Read,diagnostic,Depression,"[X]Major depression, recurrent without psychotic symptoms"
+Eu33211,Read,diagnostic,Depression,[X]Endogenous depression without psychotic symptoms
+Eu32000,Read,diagnostic,Depression,[X]Mild depressive episode
+9H91.00,Read,diagnostic,Depression,Depression medication review
+9H90.00,Read,diagnostic,Depression,Depression annual review
+Eu53011,Read,diagnostic,Depression,[X]Postnatal depression NOS
+E113200,Read,diagnostic,Depression,"Recurrent major depressive episodes, moderate"
+E113.00,Read,diagnostic,Depression,Recurrent major depressive episode
+E112200,Read,diagnostic,Depression,"Single major depressive episode, moderate"
+E112300,Read,diagnostic,Depression,"Single major depressive episode, severe, without psychosis"
+Eu34114,Read,diagnostic,Depression,[X]Persistant anxiety depression
+E112100,Read,diagnostic,Depression,"Single major depressive episode, mild"
+E291.00,Read,diagnostic,Depression,Prolonged depressive reaction
+Eu53111,Read,diagnostic,Depression,[X]Puerperal psychosis NOS
+Eu32.12,Read,diagnostic,Depression,[X]Single episode of psychogenic depression
+Eu3y111,Read,diagnostic,Depression,[X]Recurrent brief depressive episodes
+212S.00,Read,diagnostic,Depression,Depression resolved
+Eu33.12,Read,diagnostic,Depression,[X]Recurrent episodes of psychogenic depression
+Eu34000,Read,diagnostic,Depression,[X]Cyclothymia
+Eu33400,Read,diagnostic,Depression,"[X]Recurrent depressive disorder, currently in remission"
+Eu32212,Read,diagnostic,Depression,[X]Single episode major depression w'out psychotic symptoms
+Eu53z00,Read,diagnostic,Depression,"[X]Puerperal mental disorder, unspecified"
+Eu53.00,Read,diagnostic,Depression,[X]Mental and behav disorders assoc with the puerperium NEC
+1BQ..00,Read,symptom,Depression,Loss of capacity for enjoyment
+E113z00,Read,diagnostic,Depression,Recurrent major depressive episode NOS
+E113300,Read,diagnostic,Depression,"Recurrent major depressive episodes, severe, no psychosis"
+E11y200,Read,diagnostic,Depression,Atypical depressive disorder
+Eu3y.00,Read,diagnostic,Depression,[X]Other mood affective disorders
+Eu32z13,Read,diagnostic,Depression,[X]Prolonged single episode of reactive depression
+Eu33.14,Read,diagnostic,Depression,[X]Seasonal depressive disorder
+E113100,Read,diagnostic,Depression,"Recurrent major depressive episodes, mild"
+Eu33100,Read,diagnostic,Depression,"[X]Recurrent depressive disorder, current episode moderate"
+Eu3yy00,Read,diagnostic,Depression,[X]Other specified mood affective disorders
+Eu33000,Read,diagnostic,Depression,"[X]Recurrent depressive disorder, current episode mild"
+Eu3y100,Read,diagnostic,Depression,[X]Other recurrent mood affective disorders
+9H92.00,Read,diagnostic,Depression,Depression interim review
+Eu3y011,Read,diagnostic,Depression,[X]Mixed affective episode
+8HHq.00,Read,diagnostic,Depression,Referral for guided self-help for depression
+Eu92000,Read,diagnostic,Depression,[X]Depressive conduct disorder
+Eu33200,Read,diagnostic,Depression,[X]Recurr depress disorder cur epi severe without psyc sympt
+E112000,Read,diagnostic,Depression,"Single major depressive episode, unspecified"
+E113000,Read,diagnostic,Depression,"Recurrent major depressive episodes, unspecified"
+E290z00,Read,diagnostic,Depression,Brief depressive reaction NOS
+Eu33z11,Read,diagnostic,Depression,[X]Monopolar depression NOS
+Eu3z.00,Read,diagnostic,Depression,[X]Unspecified mood affective disorder
+Eu34z00,Read,diagnostic,Depression,"[X]Persistent mood affective disorder, unspecified"
+Eu53000,Read,diagnostic,Depression,[X]Mild mental/behav disorder assoc with the puerperium NEC
+Eu53100,Read,diagnostic,Depression,[X]Severe mental and behav disorder assoc wth puerperium NEC
+Eu32211,Read,diagnostic,Depression,[X]Single episode agitated depressn w'out psychotic symptoms
+Eu34.00,Read,diagnostic,Depression,[X]Persistent mood affective disorders
+9HA0.00,Read,diagnostic,Depression,On depression register
+E112500,Read,diagnostic,Depression,"Single major depressive episode, partial or unspec remission"
+Eu33z00,Read,diagnostic,Depression,"[X]Recurrent depressive disorder, unspecified"
+8BK0.00,Read,diagnostic,Depression,Depression management programme
+9HA1.00,Read,diagnostic,Depression,Removed from depression register
+L184.00,Read,diagnostic,Depression,"Mental disorders in pregnancy, childbirth and the puerperium"
+Eu33y00,Read,diagnostic,Depression,[X]Other recurrent depressive disorders
+Eu15500,Read,diagnostic,Depression,[X]Mental/behav dis oth stims inc caffeine: psychotic dis
+Eu34y00,Read,diagnostic,Depression,[X]Other persistent mood affective disorders
+Eu3y000,Read,diagnostic,Depression,[X]Other single mood affective disorders
+1BU..00,Read,symptom,Depression,Loss of hope for the future
+Eu34012,Read,diagnostic,Depression,[X]Cycloid personality
+E113600,Read,diagnostic,Depression,"Recurrent major depressive episodes, in full remission"
+E113500,Read,diagnostic,Depression,"Recurrent major depressive episodes,partial/unspec remission"
+Eu32y12,Read,diagnostic,Depression,[X]Single episode of masked depression NOS
+E112600,Read,diagnostic,Depression,"Single major depressive episode, in full remission"
+Eu32213,Read,diagnostic,Depression,[X]Single episode vital depression w'out psychotic symptoms
+Eu33214,Read,diagnostic,Depression,"[X]Vital depression, recurrent without psychotic symptoms"
+9kQ..00,Read,diagnostic,Depression,On full dose long term treatment depression - enh serv admin
+Eu32600,Read,diagnostic,Depression,"[X]Major depression, moderately severe"
+Eu32500,Read,diagnostic,Depression,"[X]Major depression, mild"
+Eu32700,Read,diagnostic,Depression,"[X]Major depression, severe without psychotic symptoms"
+L184400,Read,diagnostic,Depression,Mental disorder in puerperium - baby previously delivered
+1JJ..00,Read,symptom,Depression,Suspected depression
+L184200,Read,diagnostic,Depression,Mental disorder in the puerperium - baby delivered
+Eu32B00,Read,diagnostic,Depression,[X]Antenatal depression
+L184300,Read,diagnostic,Depression,Mental disorder during pregnancy - baby not yet delivered

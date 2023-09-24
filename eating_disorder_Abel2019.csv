@@ -1,0 +1,36 @@
+code,coding_system,entity,list_name,description
+R036011,Read,diagnostic,Eating disorders,[D]Bulimia NOS
+R030.00,Read,diagnostic,Eating disorders,[D]Anorexia
+E271.00,Read,diagnostic,Eating disorders,Anorexia nervosa
+E264200,Read,diagnostic,Eating disorders,Cyclical vomiting - psychogenic
+E275100,Read,diagnostic,Eating disorders,Bulimia (non-organic overeating)
+Eu50.00,Read,diagnostic,Eating disorders,[X]Eating disorders
+Eu50211,Read,diagnostic,Eating disorders,[X]Bulimia NOS
+1612.00,Read,symptom,Eating disorders,Appetite loss - anorexia
+E275.00,Read,diagnostic,Eating disorders,Other and unspecified non-organic eating disorders
+1612.11,Read,symptom,Eating disorders,Anorexia symptom
+1467.00,Read,diagnostic,Eating disorders,H/O: anorexia nervosa
+Eu50200,Read,diagnostic,Eating disorders,[X]Bulimia nervosa
+E275111,Read,diagnostic,Eating disorders,Compulsive eating disorder
+8HTN.00,Read,diagnostic,Eating disorders,Referral to eating disorders clinic
+R036.00,Read,symptom,Eating disorders,[D]Polyphagia
+1FF..00,Read,diagnostic,Eating disorders,Binge eating
+Eu50000,Read,diagnostic,Eating disorders,[X]Anorexia nervosa
+Z7D1200,Read,symptom,Eating disorders,Distorted body image
+1614.12,Read,symptom,Eating disorders,Polyphagia symptom
+E275z00,Read,diagnostic,Eating disorders,Non-organic eating disorder NOS
+Eu50300,Read,diagnostic,Eating disorders,[X]Atypical bulimia nervosa
+Eu50100,Read,diagnostic,Eating disorders,[X]Atypical anorexia nervosa
+Eu50y00,Read,diagnostic,Eating disorders,[X]Other eating disorders
+1614.00,Read,symptom,Eating disorders,Excessive eating - polyphagia
+Eu50z00,Read,diagnostic,Eating disorders,"[X]Eating disorder, unspecified"
+E275000,Read,diagnostic,Eating disorders,Unspecified non-organic eating disorder
+R030z00,Read,diagnostic,Eating disorders,[D]Anorexia NOS
+E275y00,Read,diagnostic,Eating disorders,Other specified non-organic eating disorder
+Eu50y11,Read,diagnostic,Eating disorders,[X]Pica in adults
+R036z00,Read,symptom,Eating disorders,[D]Polyphagia NOS
+9Nk9.00,Read,diagnostic,Eating disorders,Seen in eating disorder clinic
+Eu50212,Read,diagnostic,Eating disorders,[X]Hyperorexia nervosa
+1G2..00,Read,symptom,Eating disorders,Dissatisfied with body image
+R036100,Read,symptom,Eating disorders,[D]Hyperalimentation
+1JZ..00,Read,symptom,Eating disorders,Suspected binge eating disorder

@@ -1,0 +1,329 @@
+code,coding_system,entity,list_name,description
+E241.13,Read,diagnostic,Substance misuse,Benzodiazepine dependence
+E240.11,Read,diagnostic,Substance misuse,Heroin dependence
+E24..11,Read,diagnostic,Substance misuse,Drug addiction
+1J1..00,Read,symptom,Substance misuse,Suspected drug abuse
+E252.00,Read,diagnostic,Substance misuse,Nondependent cannabis abuse
+Eu11212,Read,diagnostic,Substance misuse,[X]Heroin addiction
+1463.00,Read,diagnostic,Substance misuse,H/O: drug dependency
+E24..00,Read,diagnostic,Substance misuse,Drug dependence
+E246.00,Read,diagnostic,Substance misuse,Glue sniffing dependence
+E253.00,Read,diagnostic,Substance misuse,Nondependent hallucinogen abuse
+1J10.00,Read,symptom,Substance misuse,Suspected abuse soft drugs
+8B23.11,Read,diagnostic,Substance misuse,Drug addictn therap-methadone
+1J11.00,Read,symptom,Substance misuse,Suspected abuse hard drugs
+8B23.00,Read,diagnostic,Substance misuse,Drug addiction therapy
+E25..00,Read,diagnostic,Substance misuse,Nondependent abuse of drugs
+E243.00,Read,diagnostic,Substance misuse,Cannabis type drug dependence
+ZV6D700,Read,diagnostic,Substance misuse,[V]Drug abuse counselling and surveillance
+13c..00,Read,symptom,Substance misuse,Drug user
+8B23.13,Read,diagnostic,Substance misuse,Drug dependence therapy
+Eu19211,Read,diagnostic,Substance misuse,[X]Drug addiction NOS
+Eu15211,Read,diagnostic,Substance misuse,[X]Drug addiction-other stimul
+Eu11211,Read,diagnostic,Substance misuse,[X]Drug addiction - opioids
+Eu12.00,Read,diagnostic,Substance misuse,[X]Mental and behavioural disorders due to use cannabinoids
+Eu19.00,Read,diagnostic,Substance misuse,[X]Men & behav disorder multiple drug use/psychoactive subst
+SL85000,Read,diagnostic,Substance misuse,Cocaine poisoning
+E256.00,Read,diagnostic,Substance misuse,Nondependent cocaine abuse
+Eu14211,Read,diagnostic,Substance misuse,[X]Drug addiction - cocaine
+E242.00,Read,diagnostic,Substance misuse,Cocaine type drug dependence
+8HHL.00,Read,diagnostic,Substance misuse,Referral to community drug dependency team
+146F.00,Read,diagnostic,Substance misuse,H/O: drug abuse
+8H7x.00,Read,diagnostic,Substance misuse,Referral to drug abuse counsellor
+E249.00,Read,diagnostic,Substance misuse,"Combined drug dependence, excluding opioids"
+E253.12,Read,diagnostic,Substance misuse,LSD reaction
+E25y.00,Read,diagnostic,Substance misuse,Nondependent other drug abuse
+E240.00,Read,diagnostic,Substance misuse,Opioid type drug dependence
+E02..00,Read,diagnostic,Substance misuse,Drug psychoses
+E240.12,Read,diagnostic,Substance misuse,Methadone dependence
+SL50100,Read,diagnostic,Substance misuse,Heroin poisoning
+E240200,Read,diagnostic,Substance misuse,Episodic opioid dependence
+E24A.00,Read,diagnostic,Substance misuse,Ecstasy type drug dependence
+ZV11400,Read,diagnostic,Substance misuse,[V]Personal history of psychoactive substance abuse
+9G2..11,Read,diagnostic,Substance misuse,Drug addict notific admin
+Eu12211,Read,diagnostic,Substance misuse,[X]Drug addiction - cannabis
+E245.11,Read,diagnostic,Substance misuse,LSD dependence
+13c0.00,Read,symptom,Substance misuse,Injecting drug user
+E02y400,Read,diagnostic,Substance misuse,Drug-induced personality disorder
+E244.00,Read,diagnostic,Substance misuse,Amphetamine or other psychostimulant dependence
+E257.00,Read,diagnostic,Substance misuse,Nondependent amphetamine or other psychostimulant abuse
+9HC0.00,Read,diagnostic,Substance misuse,Initial substance misuse assessment
+E240z00,Read,diagnostic,Substance misuse,Opioid drug dependence NOS
+E243000,Read,diagnostic,Substance misuse,"Cannabis dependence, unspecified"
+Eu19500,Read,diagnostic,Substance misuse,[X]Ment/behav dis mlti drug use/oth psyc sbs: psychotc dis
+9G21.00,Read,diagnostic,Substance misuse,Drug addict notific to CMO
+E247100,Read,diagnostic,Substance misuse,"Other specified drug dependence, continuous"
+E259400,Read,symptom,Substance misuse,Misuse of prescription only drugs
+E257200,Read,diagnostic,Substance misuse,"Nondependent amphetamine or psychostimulant abuse, episodic"
+E252200,Read,diagnostic,Substance misuse,"Nondependent cannabis abuse, episodic"
+Z192.00,Read,diagnostic,Substance misuse,Dependent drug detoxification
+E252z00,Read,diagnostic,Substance misuse,Nondependent cannabis abuse NOS
+Eu11311,Read,diagnostic,Substance misuse,"[X]Cold turkey, opiate withdrawal"
+E244z00,Read,diagnostic,Substance misuse,Amphetamine or psychostimulant dependence NOS
+E244.12,Read,diagnostic,Substance misuse,Stimulant dependence
+E242100,Read,diagnostic,Substance misuse,"Cocaine dependence, continuous"
+Eu13211,Read,diagnostic,Substance misuse,[X]Drug addiction- sedative / hypnotics
+E242000,Read,diagnostic,Substance misuse,"Cocaine dependence, unspecified"
+13cE.00,Read,diagnostic,Substance misuse,Prolonged high dose use of cannabis
+E02z.00,Read,diagnostic,Substance misuse,Drug psychosis NOS
+E248.00,Read,diagnostic,Substance misuse,Combined opioid with other drug dependence
+E255.00,Read,diagnostic,Substance misuse,Nondependent opioid abuse
+Eu11700,Read,diagnostic,Substance misuse,[X]Men & beh dis due opioids: resid & late-onset psychot dis
+U205.11,Read,symptom,Substance misuse,[X]Overdose - heroin
+13cH.00,Read,diagnostic,Substance misuse,Persistent substance misuse
+E02yz00,Read,diagnostic,Substance misuse,Other drug psychoses NOS
+1283.00,Read,diagnostic,Substance misuse,FH: Drug dependency
+8B2N.00,Read,diagnostic,Substance misuse,Drug addiction detoxification therapy - methadone
+E24z.00,Read,diagnostic,Substance misuse,Drug dependence NOS
+9G2..00,Read,diagnostic,Substance misuse,Drug addiction notification
+Eu1..00,Read,diagnostic,Substance misuse,[X]Mental and behavioural disorders due to psychoactive subs
+13c1.00,Read,symptom,Substance misuse,Intravenous drug user
+9N4i.00,Read,diagnostic,Substance misuse,DNA - Did not attend substance misuse clinic
+146C.00,Read,diagnostic,Substance misuse,Failed heroin detoxification
+8BAX.00,Read,diagnostic,Substance misuse,Drug dependence home detoxification
+8B2P.00,Read,diagnostic,Substance misuse,Drug addiction maintenance therapy - methadone
+ZV11500,Read,diagnostic,Substance misuse,[V]Personal history of drug abuse by injection
+7P22000,Read,diagnostic,Substance misuse,Delivery of rehabilitation for drug addiction
+9HC..00,Read,diagnostic,Substance misuse,Substance misuse monitoring
+Eu18.00,Read,diagnostic,Substance misuse,[X]Mental & behav disorders due to use of volatile solvents
+SL97000,Read,diagnostic,Substance misuse,Amfetamine poisoning
+Eu14.00,Read,diagnostic,Substance misuse,[X]Mental and behavioural disorders due to use of cocaine
+Eu1A.00,Read,diagnostic,Substance misuse,[X]Mental and behavioural disorders due use of crack cocaine
+8BAW.00,Read,diagnostic,Substance misuse,Drug dependence self detoxification
+E257.11,Read,diagnostic,Substance misuse,Psychostimulant abuse
+SL50.12,Read,diagnostic,Substance misuse,Opiate poisoning
+E240.14,Read,diagnostic,Substance misuse,Opium dependence
+E245.00,Read,diagnostic,Substance misuse,Hallucinogen dependence
+E256000,Read,diagnostic,Substance misuse,"Nondependent cocaine abuse, unspecified"
+E243z00,Read,diagnostic,Substance misuse,Cannabis drug dependence NOS
+Eu15200,Read,diagnostic,Substance misuse,[X]Mental and behav dis oth stim inc caffein: dependnce synd
+Eu18211,Read,diagnostic,Substance misuse,[X]Drug addiction - solvent
+E246200,Read,diagnostic,Substance misuse,"Glue sniffing dependence, episodic"
+E259z00,Read,diagnostic,Substance misuse,Nondependent mixed drug abuse NOS
+E242z00,Read,diagnostic,Substance misuse,Cocaine drug dependence NOS
+Eu11200,Read,diagnostic,Substance misuse,[X]Mental and behav dis due to use opioids: dependence syndr
+9k5..00,Read,diagnostic,Substance misuse,Drug misuse - enhanced services administration
+Eu16711,Read,diagnostic,Substance misuse,[X]Post hallucinogen perception disorder
+Eu11300,Read,diagnostic,Substance misuse,[X]Mental and behav dis due to use opioids: withdrawal state
+SL50500,Read,diagnostic,Substance misuse,Morphine poisoning
+E243.13,Read,diagnostic,Substance misuse,Marihuana dependence
+E244000,Read,diagnostic,Substance misuse,"Amphetamine or psychostimulant dependence, unspecified"
+SL97200,Read,diagnostic,Substance misuse,Ecstasy poisoning
+Eu11100,Read,diagnostic,Substance misuse,[X]Mental and behav dis due to use of opioids: harmful use
+13cB.00,Read,diagnostic,Substance misuse,Misuses drugs orally
+E240000,Read,diagnostic,Substance misuse,Unspecified opioid dependence
+E246000,Read,diagnostic,Substance misuse,"Glue sniffing dependence, unspecified"
+E244100,Read,diagnostic,Substance misuse,"Amphetamine or psychostimulant dependence, continuous"
+Eu12500,Read,diagnostic,Substance misuse,[X]Mental & behav dis due to cannabinoids: psychotic disordr
+E257000,Read,diagnostic,Substance misuse,"Nondependent amphetamine/psychostimulant abuse, unspecified"
+E242200,Read,diagnostic,Substance misuse,"Cocaine dependence, episodic"
+E252100,Read,diagnostic,Substance misuse,"Nondependent cannabis abuse, continuous"
+E255000,Read,diagnostic,Substance misuse,"Nondependent opioid abuse, unspecified"
+E243.11,Read,diagnostic,Substance misuse,Hashish dependence
+E247z00,Read,diagnostic,Substance misuse,Other specified drug dependence NOS
+13cF.00,Read,diagnostic,Substance misuse,Preoccupied with substance misuse
+Eu13.00,Read,diagnostic,Substance misuse,[X]Mental and behavioural dis due use sedatives/hypnotics
+L183.00,Read,diagnostic,Substance misuse,"Drug dependence in pregnancy, childbirth and the puerperium"
+E244.11,Read,diagnostic,Substance misuse,Psychostimulant dependence
+E252000,Read,diagnostic,Substance misuse,"Nondependent cannabis abuse, unspecified"
+8BAc.00,Read,diagnostic,Substance misuse,Substance misuse management stopped - self withdrawal
+E243100,Read,diagnostic,Substance misuse,"Cannabis dependence, continuous"
+E240100,Read,diagnostic,Substance misuse,Continuous opioid dependence
+Eu15.00,Read,diagnostic,Substance misuse,[X]Mental & behav disorder due other stimulants inc caffein
+E257300,Read,diagnostic,Substance misuse,Nondependent amphetamine/psychostimulant abuse in remission
+8B2Q.00,Read,diagnostic,Substance misuse,Drug addiction maintenance therapy - buprenorphine
+E256200,Read,diagnostic,Substance misuse,"Nondependent cocaine abuse, episodic"
+Eu13200,Read,diagnostic,Substance misuse,[X]Mental and behav dis due to seds/hypntcs: dependence synd
+E243300,Read,diagnostic,Substance misuse,Cannabis dependence in remission
+Eu19200,Read,diagnostic,Substance misuse,[X]Mental and behav dis mlti/oth psych sbs: dependence syndr
+9HC2.00,Read,diagnostic,Substance misuse,Substance misuse clinical management plan agreed
+E257.12,Read,diagnostic,Substance misuse,Stimulant abuse
+E244300,Read,diagnostic,Substance misuse,Amphetamine or psychostimulant dependence in remission
+E256100,Read,diagnostic,Substance misuse,"Nondependent cocaine abuse, continuous"
+E258.00,Read,diagnostic,Substance misuse,Nondependent antidepressant type drug abuse
+Eu11.00,Read,diagnostic,Substance misuse,[X]Mental and behavioural disorders due to use of opioids
+Eu14100,Read,diagnostic,Substance misuse,[X]Mental and behav dis due to use of cocaine: harmful use
+Eu16211,Read,diagnostic,Substance misuse,[X]Drug addiction - hallucinogen
+E257z00,Read,diagnostic,Substance misuse,Nondependent amphetamine or psychostimulant abuse NOS
+E253z00,Read,diagnostic,Substance misuse,Nondependent hallucinogen abuse NOS
+Eu18z00,Read,diagnostic,Substance misuse,[X]Ment/behav dis due use vol solvents: unsp ment/behav dis
+Eu14500,Read,diagnostic,Substance misuse,[X]Mental & behav dis due to use cocaine: psychotic disorder
+E244200,Read,diagnostic,Substance misuse,"Amphetamine or psychostimulant dependence, episodic"
+13c7.00,Read,symptom,Substance misuse,Current drug user
+Eu16.00,Read,diagnostic,Substance misuse,[X]Mental and behavioural disorders due to use hallucinogens
+Eu14200,Read,diagnostic,Substance misuse,[X]Mental and behav dis due to use cocaine: dependence syndr
+Eu12100,Read,diagnostic,Substance misuse,[X]Mental and behav dis due to use cannabinoids: harmful use
+E241200,Read,diagnostic,Substance misuse,"Hypnotic or anxiolytic dependence, episodic"
+Eu11500,Read,diagnostic,Substance misuse,[X]Mental & behav dis due to use opioids: psychotic disorder
+8B2R.00,Read,diagnostic,Substance misuse,Drug addiction detoxification therapy - buprenorphine
+E02y.00,Read,diagnostic,Substance misuse,Other drug psychoses
+E247.00,Read,diagnostic,Substance misuse,Other specified drug dependence
+Eu19300,Read,diagnostic,Substance misuse,[X]Mental and behav dis mlti/oth psychoa sbs: withdrwl state
+U1A5.11,Read,symptom,Substance misuse,[X]Accidental poisoning with heroin
+Eu11y00,Read,diagnostic,Substance misuse,[X]Men & behav dis due to use opioids: oth men & behav dis
+E243200,Read,diagnostic,Substance misuse,"Cannabis dependence, episodic"
+Eu18200,Read,diagnostic,Substance misuse,[X]Mental and behav dis due to vol solvents: dependence synd
+E257100,Read,diagnostic,Substance misuse,"Nondependent amphetamine/psychostimulant abuse, continuous"
+E259300,Read,diagnostic,Substance misuse,Nondependent mixed drug abuse in remission
+E25y300,Read,diagnostic,Substance misuse,Nondependent other drug abuse in remission
+E259200,Read,diagnostic,Substance misuse,"Nondependent mixed drug abuse, episodic"
+E259.00,Read,diagnostic,Substance misuse,Nondependent mixed drug abuse
+E249100,Read,diagnostic,Substance misuse,"Combined drug dependence, excluding opioid, continuous"
+8AA..00,Read,diagnostic,Substance misuse,Drug abuse monitoring
+E25y100,Read,diagnostic,Substance misuse,"Nondependent other drug abuse, continuous"
+Eu16500,Read,diagnostic,Substance misuse,[X]Mental & behav dis due to hallucinogens: psychotic disord
+Eu16300,Read,diagnostic,Substance misuse,[X]Mental and behav dis due hallucinogens: withdrawal state
+E248000,Read,diagnostic,Substance misuse,"Combined opioid with other drug dependence, unspecified"
+E259000,Read,diagnostic,Substance misuse,"Nondependent mixed drug abuse, unspecified"
+Eu12200,Read,diagnostic,Substance misuse,[X]Mental and behav dis due to cannabinoids: dependence synd
+Eu15z00,Read,diagnostic,Substance misuse,[X]Ment/beh dis oth stims inc caffeine: unsp ment/behav disd
+Eu19700,Read,diagnostic,Substance misuse,[X]Men/beh dis mlt drg use/oth subs: resid/late psychot dis
+Eu12700,Read,diagnostic,Substance misuse,[X]Mnt/bh dis due cannabinds: resid & late-onset psychot dis
+9HC1.00,Read,diagnostic,Substance misuse,Follow up substance misuse assessment
+E255100,Read,diagnostic,Substance misuse,"Nondependent opioid abuse, continuous"
+9G2Z.00,Read,diagnostic,Substance misuse,Drug addiction notif NOS
+E256300,Read,diagnostic,Substance misuse,Nondependent cocaine abuse in remission
+Eu18100,Read,diagnostic,Substance misuse,[X]Mental and behav dis due volatile solvents: harmful use
+E246z00,Read,diagnostic,Substance misuse,Glue sniffing dependence NOS
+E247000,Read,diagnostic,Substance misuse,"Other specified drug dependence, unspecified"
+Z1Q6200,Read,diagnostic,Substance misuse,Methadone maintenance
+9G23.00,Read,diagnostic,Substance misuse,Drug addict re-notif to CMO
+Eu1A000,Read,diagnostic,Substance misuse,[X]Ment behav dis due use crack cocaine: acute intoxication
+8I2N.00,Read,diagnostic,Substance misuse,Drug dependence home detoxification contraindicated
+Eu13300,Read,diagnostic,Substance misuse,[X]Mental and behav dis due seds/hypntcs: withdrawal state
+SL50.00,Read,diagnostic,Substance misuse,Opiate and narcotic poisoning
+Eu18400,Read,diagnostic,Substance misuse,[X]Men & beh dis vol solvents: withdrawal state wth delirium
+9k50.00,Read,diagnostic,Substance misuse,Drug misuse - enhanced service completed
+E249200,Read,diagnostic,Substance misuse,"Combined drug dependence, excluding opioid, episodic"
+E259100,Read,diagnostic,Substance misuse,"Nondependent mixed drug abuse, continuous"
+Eu19100,Read,diagnostic,Substance misuse,[X]Mental and behav dis mlti drg/oth psychoa sbs: harmfl use
+E25y000,Read,diagnostic,Substance misuse,"Nondependent other drug abuse, unspecified"
+L183100,Read,diagnostic,Substance misuse,Drug dependence during pregnancy - baby delivered
+E248100,Read,diagnostic,Substance misuse,"Combined opioid with other drug dependence, continuous"
+E248200,Read,diagnostic,Substance misuse,"Combined opioid with other drug dependence, episodic"
+Eu12y00,Read,diagnostic,Substance misuse,[X]Men/behav dis due to use cannabinoids: oth men/behav disd
+E25yz00,Read,diagnostic,Substance misuse,Nondependent other drug abuse NOS
+E256z00,Read,diagnostic,Substance misuse,Nondependent cocaine abuse NOS
+E255200,Read,diagnostic,Substance misuse,"Nondependent opioid abuse, episodic"
+L183.11,Read,diagnostic,Substance misuse,Pregnancy and drug dependence
+E25y200,Read,diagnostic,Substance misuse,"Nondependent other drug abuse, episodic"
+Eu12z00,Read,diagnostic,Substance misuse,[X]Ment/behav dis due use cannabinoids: unsp ment/behav disd
+Eu12300,Read,diagnostic,Substance misuse,[X]Mental and behav dis due cannabinoids: withdrawal state
+Eu16200,Read,diagnostic,Substance misuse,[X]Mental and behav dis due to hallucinogens: dependence syn
+9G24.00,Read,diagnostic,Substance misuse,Drug addict-notify local SMR22
+Eu19400,Read,diagnostic,Substance misuse,[X]Mnt/bh dis mlti drg use/oth psy sbs: wthdr state + dlrium
+L183300,Read,diagnostic,Substance misuse,Drug dependence during pregnancy - baby not yet delivered
+E253300,Read,diagnostic,Substance misuse,Nondependent hallucinogen abuse in remission
+Eu16100,Read,diagnostic,Substance misuse,[X]Mental and behav dis due to use hallucinogens: harmfl use
+Eu14300,Read,diagnostic,Substance misuse,[X]Mental and behav dis due to use cocaine: withdrawal state
+E245z00,Read,diagnostic,Substance misuse,Hallucinogen dependence NOS
+Eu13500,Read,diagnostic,Substance misuse,[X]Mental & behav dis due to seds/hypntcs: psychotic disordr
+E255z00,Read,diagnostic,Substance misuse,Nondependent opioid abuse NOS
+9G22.00,Read,diagnostic,Substance misuse,Drug addict re-notific due
+Eu19z00,Read,diagnostic,Substance misuse,[X]Ment/beh dis multi drug use/oth psy sbs unsp mnt/beh dis
+E253000,Read,diagnostic,Substance misuse,"Nondependent hallucinogen abuse, unspecified"
+E245100,Read,diagnostic,Substance misuse,"Hallucinogen dependence, continuous"
+E249z00,Read,diagnostic,Substance misuse,"Combined drug dependence, excluding opioid, NOS"
+E245.12,Read,diagnostic,Substance misuse,Lysergic acid diethylamide dependence
+E247200,Read,diagnostic,Substance misuse,"Other specified drug dependence, episodic"
+9HC3.00,Read,diagnostic,Substance misuse,Substance misuse clinical management plan reviewed
+E245200,Read,diagnostic,Substance misuse,"Hallucinogen dependence, episodic"
+E248z00,Read,diagnostic,Substance misuse,Combined opioid with other drug dependence NOS
+1T0..00,Read,diagnostic,Substance misuse,H/O heroin misuse
+1T43.00,Read,diagnostic,Substance misuse,Previous history of amphetamine misuse
+1T53.00,Read,diagnostic,Substance misuse,Previous history of cocaine misuse
+1T9..00,Read,diagnostic,Substance misuse,H/O solvent misuse
+8Hl5.00,Read,diagnostic,Substance misuse,Referral to drugs therapist
+1T63.00,Read,diagnostic,Substance misuse,Previous history of crack cocaine misuse
+1TF..00,Read,diagnostic,Substance misuse,Does not use heroin on top of substitution therapy
+1T...00,Read,diagnostic,Substance misuse,History of substance misuse
+1T00.00,Read,diagnostic,Substance misuse,H/O daily heroin misuse
+Eu1A100,Read,diagnostic,Substance misuse,[X]Mental behav disorders due use crack cocaine: harmful use
+1TD..00,Read,diagnostic,Substance misuse,H/O opiate misuse
+1TE..00,Read,diagnostic,Substance misuse,Uses heroin on top of substitution therapy
+1T52.00,Read,diagnostic,Substance misuse,H/O infrequent cocaine misuse
+1T02.00,Read,diagnostic,Substance misuse,Previous history of heroin misuse
+1TD0.00,Read,diagnostic,Substance misuse,H/O daily opiate misuse
+1T42.00,Read,diagnostic,Substance misuse,H/O infrequent amphetamine misuse
+1T41.00,Read,diagnostic,Substance misuse,H/O weekly amphetamine misuse
+1T62.00,Read,diagnostic,Substance misuse,H/O infrequent crack cocaine misuse
+1T03.00,Read,diagnostic,Substance misuse,H/O infrequent heroin misuse
+1T93.00,Read,diagnostic,Substance misuse,Previous history of solvent misuse
+1T51.00,Read,diagnostic,Substance misuse,H/O weekly cocaine misuse
+8BE0.00,Read,diagnostic,Substance misuse,Reinduction to methadone maintenance therapy
+1T61.00,Read,diagnostic,Substance misuse,H/O weekly crack cocaine misuse
+1TD2.00,Read,diagnostic,Substance misuse,H/O infrequent opiate misuse
+1TD3.00,Read,diagnostic,Substance misuse,Previous history of opiate misuse
+E249000,Read,diagnostic,Substance misuse,"Combined drug dependence, excluding opioid, unspecified"
+9HC5.00,Read,diagnostic,Substance misuse,Substance misuse treatment programme completed
+Eu1Az00,Read,diagnostic,Substance misuse,[X]Ment behav dis due crack cocaine: unsp ment and behav dis
+Eu11z00,Read,diagnostic,Substance misuse,[X]Ment & behav dis due use opioids: unsp ment & behav dis
+9HC4.00,Read,diagnostic,Substance misuse,Substance misuse treatment withdrawn
+Eu16z00,Read,diagnostic,Substance misuse,[X]Ment/behav dis due use hallucinogens: unsp ment/behav dis
+E245000,Read,diagnostic,Substance misuse,"Hallucinogen dependence, unspecified"
+Eu19y00,Read,diagnostic,Substance misuse,[X]Men/beh dis mlt drg use/oth psy sbs: oth men & behav dis
+Eu13100,Read,diagnostic,Substance misuse,[X]Mental and behav dis due to use seds/hypntcs: harmful use
+13cM.00,Read,diagnostic,Substance misuse,Substance misuse
+1T01.00,Read,diagnostic,Substance misuse,H/O weekly heroin misuse
+8HkF.00,Read,diagnostic,Substance misuse,Referral to substance misuse service
+8B2T.00,Read,diagnostic,Substance misuse,Opioid antagonist therapy
+8B2S.00,Read,diagnostic,Substance misuse,Opioid agonist substitution therapy
+E258z00,Read,diagnostic,Substance misuse,Nondependent antidepressant type drug abuse NOS
+8Hh1.00,Read,diagnostic,Substance misuse,Self referral to substance misuse service
+1T90.00,Read,diagnostic,Substance misuse,H/O daily solvent misuse
+Z1Q6214,Read,diagnostic,Substance misuse,Heroin maintenance
+E255300,Read,diagnostic,Substance misuse,Nondependent opioid abuse in remission
+E253100,Read,diagnostic,Substance misuse,"Nondependent hallucinogen abuse, continuous"
+E253200,Read,diagnostic,Substance misuse,"Nondependent hallucinogen abuse, episodic"
+L183z00,Read,diagnostic,Substance misuse,Drug dependence during pregnancy/childbirth/puerperium NOS
+9HC6.00,Read,diagnostic,Substance misuse,Substance misuse treatment declined
+677T.00,Read,diagnostic,Substance misuse,Substance misuse structured counselling
+1V65.00,Read,diagnostic,Substance misuse,Heroin misuse
+1V6..00,Read,symptom,Substance misuse,Drug-related offending behaviour
+E246100,Read,diagnostic,Substance misuse,"Glue sniffing dependence, continuous"
+Eu11400,Read,diagnostic,Substance misuse,[X]Men & behav dis due opioid: withdrawl state with delirium
+Eu12600,Read,diagnostic,Substance misuse,[X]Mental and behav dis due to use cannabinoids: amnesic syn
+9k51.00,Read,diagnostic,Substance misuse,Shared care drug misuse treatment - enhanced services admin
+9k52.00,Read,diagnostic,Substance misuse,Drug misuse treatment primary care - enhanced services admin
+1V02.00,Read,diagnostic,Substance misuse,Poly-drug misuser
+9No5.00,Read,diagnostic,Substance misuse,Seen in substance misuse clinic
+9kS..00,Read,diagnostic,Substance misuse,Drug misuse assessment declined - enhanced services administ
+1V01.00,Read,diagnostic,Substance misuse,Long-term drug misuser
+9k53.00,Read,diagnostic,Substance misuse,Pharmacy attended for drug misuse - enhanced services admin
+Eu18500,Read,diagnostic,Substance misuse,[X]Mental & behav dis due to vol solvents: psychotic disordr
+1V0C.00,Read,diagnostic,Substance misuse,Drug addict
+1T91.00,Read,diagnostic,Substance misuse,H/O weekly solvent misuse
+8Hq..00,Read,diagnostic,Substance misuse,Admission to substance misuse detoxification centre
+Z1Q6212,Read,diagnostic,Substance misuse,Methadone therapy
+1V0E.00,Read,diagnostic,Substance misuse,Health problem secondary to drug misuse
+1TD1.00,Read,diagnostic,Substance misuse,H/O weekly opiate misuse
+1V07.00,Read,diagnostic,Substance misuse,Notified addict
+Eu1A300,Read,diagnostic,Substance misuse,[X]Mental behav disord due crack cocaine: withdrawal state
+R10B200,Read,symptom,Substance misuse,[D]Finding of psychotropic drug in blood
+SL97011,Read,diagnostic,Substance misuse,Amphetamine poisoning
+E244z11,Read,diagnostic,Substance misuse,Amfetamine or psychostimulant dependence NOS
+Eu1A500,Read,diagnostic,Substance misuse,[X]Mental behav disord due crack cocaine: psychotic disorder
+Eu1A200,Read,diagnostic,Substance misuse,[X]Mental behav disorders due use crack cocaine: depend synd
+Eu14700,Read,diagnostic,Substance misuse,[X]Men & beh dis due cocaine: resid & late-onset psychot dis
+9k51.11,Read,diagnostic,Substance misuse,Shared care drug misuse treatment
+1V35.00,Read,symptom,Substance misuse,Shares drug equipment
+1V0B.00,Read,symptom,Substance misuse,Sniffs drugs
+Eu11600,Read,diagnostic,Substance misuse,[X]Mental and behav dis due to use opioids: amnesic syndrome
+1V0A.00,Read,symptom,Substance misuse,Chases the dragon
+Eu16700,Read,diagnostic,Substance misuse,[X]Mnt/bh dis due hallucngns: resid & late-onset psychot dis
+1V08.00,Read,symptom,Substance misuse,Smokes drugs in cigarette form
+9s...00,Read,diagnostic,Substance misuse,Drug misuse clinic administration
+Eu19600,Read,diagnostic,Substance misuse,[X]Mental/behav dis multi drg use/oth psy sbs: amnesic syndr
+9N1yJ00,Read,diagnostic,Substance misuse,Seen in drug misuse clinic
+1V09.00,Read,symptom,Substance misuse,Smokes drugs through a pipe
+9NX2.00,Read,diagnostic,Substance misuse,In-house substance misuse treatment
+E244011,Read,diagnostic,Substance misuse,"Amfetamine or psychostimulant dependence, unspecified"
+13cM000,Read,diagnostic,Substance misuse,Novel psychoactive substance misuse
+1T92.00,Read,diagnostic,Substance misuse,H/O infrequent solvent misuse
+1V30.00,Read,symptom,Substance misuse,Injects drugs subcutaneously
+1TG..00,Read,diagnostic,Substance misuse,H/O novel psychoactive substance misuse
+9HCC.00,Read,diagnostic,Substance misuse,On substance misuse programme
+9HCA.00,Read,diagnostic,Substance misuse,Substance misuse monitoring 6 month review
+9k52.11,Read,diagnostic,Substance misuse,Drug misuse treatment in primary care
+9k53.11,Read,diagnostic,Substance misuse,Pharmacy attended for drug misuse
+9HC9.00,Read,diagnostic,Substance misuse,Substnce misse treatmnt pgme del other healththcare provider

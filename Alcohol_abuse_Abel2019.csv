@@ -1,0 +1,102 @@
+code,coding_system,entity,list_name,description
+E250000,Read,diagnostic,Alcohol abuse,"Nondependent alcohol abuse, unspecified"
+E23..11,Read,diagnostic,Alcohol abuse,Alcoholism
+E01y000,Read,diagnostic,Alcohol abuse,Alcohol withdrawal syndrome
+8BA8.00,Read,diagnostic,Alcohol abuse,Alcohol detoxification
+E23..00,Read,diagnostic,Alcohol abuse,Alcohol dependence syndrome
+F375.00,Read,diagnostic,Alcohol abuse,Alcoholic polyneuropathy
+J611.00,Read,diagnostic,Alcohol abuse,Acute alcoholic hepatitis
+E011000,Read,diagnostic,Alcohol abuse,Korsakov's alcoholic psychosis
+J153.00,Read,diagnostic,Alcohol abuse,Alcoholic gastritis
+J612.00,Read,diagnostic,Alcohol abuse,Alcoholic cirrhosis of liver
+G555.00,Read,diagnostic,Alcohol abuse,Alcoholic cardiomyopathy
+Eu10.00,Read,diagnostic,Alcohol abuse,[X]Mental and behavioural disorders due to use of alcohol
+E230.00,Read,diagnostic,Alcohol abuse,Acute alcoholic intoxication in alcoholism
+Eu10212,Read,diagnostic,Alcohol abuse,[X]Chronic alcoholism
+E23z.00,Read,diagnostic,Alcohol abuse,Alcohol dependence syndrome NOS
+Eu10511,Read,diagnostic,Alcohol abuse,[X]Alcoholic hallucinosis
+ZV11300,Read,diagnostic,Alcohol abuse,[V]Personal history of alcoholism
+J617000,Read,diagnostic,Alcohol abuse,Chronic alcoholic hepatitis
+E250.00,Read,diagnostic,Alcohol abuse,Nondependent alcohol abuse
+J613.00,Read,diagnostic,Alcohol abuse,Alcoholic liver damage unspecified
+J617.00,Read,diagnostic,Alcohol abuse,Alcoholic hepatitis
+ZV6D600,Read,diagnostic,Alcohol abuse,[V]Alcohol abuse counselling and surveillance
+G852300,Read,diagnostic,Alcohol abuse,Oesophageal varices in alcoholic cirrhosis of the liver
+1462.00,Read,diagnostic,Alcohol abuse,H/O: alcoholism
+8H7p.00,Read,diagnostic,Alcohol abuse,Referral to community alcohol team
+2577.11,Read,symptom,Alcohol abuse,O/E - alcoholic breath
+J610.00,Read,diagnostic,Alcohol abuse,Alcoholic fatty liver
+E011100,Read,diagnostic,Alcohol abuse,Korsakov's alcoholic psychosis with peripheral neuritis
+Eu10611,Read,diagnostic,Alcohol abuse,"[X]Korsakov's psychosis, alcohol induced"
+Eu10500,Read,diagnostic,Alcohol abuse,[X]Mental & behav dis due to use alcohol: psychotic disorder
+66e..00,Read,diagnostic,Alcohol abuse,Alcohol disorder monitoring
+8HHe.00,Read,diagnostic,Alcohol abuse,Referral to community drug and alcohol team
+E250200,Read,diagnostic,Alcohol abuse,"Nondependent alcohol abuse, episodic"
+1369.00,Read,symptom,Alcohol abuse,Suspect alcohol abuse - denied
+E010.00,Read,diagnostic,Alcohol abuse,Alcohol withdrawal delirium
+E01..00,Read,diagnostic,Alcohol abuse,Alcoholic psychoses
+Eu10411,Read,diagnostic,Alcohol abuse,"[X]Delirium tremens, alcohol induced"
+J613000,Read,diagnostic,Alcohol abuse,Alcoholic hepatic failure
+Eu10514,Read,diagnostic,Alcohol abuse,[X]Alcoholic psychosis NOS
+13Y8.00,Read,diagnostic,Alcohol abuse,Alcoholics anonymous
+E011200,Read,diagnostic,Alcohol abuse,Wernicke-Korsakov syndrome
+136R.00,Read,symptom,Alcohol abuse,Binge drinker
+136S.00,Read,diagnostic,Alcohol abuse,Hazardous alcohol use
+Eu10300,Read,diagnostic,Alcohol abuse,[X]Mental and behav dis due to use alcohol: withdrawal state
+E011.00,Read,diagnostic,Alcohol abuse,Alcohol amnestic syndrome
+E230200,Read,diagnostic,Alcohol abuse,Episodic acute alcoholic intoxication in alcoholism
+J612000,Read,diagnostic,Alcohol abuse,Alcoholic fibrosis and sclerosis of liver
+Eu10100,Read,diagnostic,Alcohol abuse,[X]Mental and behav dis due to use of alcohol: harmful use
+E250100,Read,diagnostic,Alcohol abuse,"Nondependent alcohol abuse, continuous"
+E231100,Read,diagnostic,Alcohol abuse,Continuous chronic alcoholism
+E231300,Read,diagnostic,Alcohol abuse,Chronic alcoholism in remission
+J671000,Read,diagnostic,Alcohol abuse,Alcohol-induced chronic pancreatitis
+E013.00,Read,diagnostic,Alcohol abuse,Alcohol withdrawal hallucinosis
+E231200,Read,diagnostic,Alcohol abuse,Episodic chronic alcoholism
+Eu10711,Read,diagnostic,Alcohol abuse,[X]Alcoholic dementia NOS
+E012.11,Read,diagnostic,Alcohol abuse,Alcoholic dementia NOS
+E250z00,Read,diagnostic,Alcohol abuse,Nondependent alcohol abuse NOS
+Eu10211,Read,diagnostic,Alcohol abuse,[X]Alcohol addiction
+8G32.00,Read,diagnostic,Alcohol abuse,Aversion therapy - alcoholism
+Eu10513,Read,diagnostic,Alcohol abuse,[X]Alcoholic paranoia
+E015.00,Read,diagnostic,Alcohol abuse,Alcoholic paranoia
+Z4B1.00,Read,diagnostic,Alcohol abuse,Alcoholism counselling
+F25B.00,Read,diagnostic,Alcohol abuse,Alcohol-induced epilepsy
+136T.00,Read,diagnostic,Alcohol abuse,Harmful alcohol use
+E231.00,Read,diagnostic,Alcohol abuse,Chronic alcoholism
+E250300,Read,diagnostic,Alcohol abuse,Nondependent alcohol abuse in remission
+F394100,Read,diagnostic,Alcohol abuse,Alcoholic myopathy
+Eu10800,Read,diagnostic,Alcohol abuse,[X]Alcohol withdrawal-induced seizure
+66e0.00,Read,diagnostic,Alcohol abuse,Alcohol abuse monitoring
+E231z00,Read,diagnostic,Alcohol abuse,Chronic alcoholism NOS
+E01y.00,Read,diagnostic,Alcohol abuse,Other alcoholic psychosis
+F144000,Read,diagnostic,Alcohol abuse,Cerebellar ataxia due to alcoholism
+E230z00,Read,diagnostic,Alcohol abuse,Acute alcoholic intoxication in alcoholism NOS
+F11x011,Read,diagnostic,Alcohol abuse,Alcoholic encephalopathy
+Eu10712,Read,diagnostic,Alcohol abuse,[X]Chronic alcoholic brain syndrome
+E012000,Read,diagnostic,Alcohol abuse,Chronic alcoholic brain syndrome
+1B1c.00,Read,diagnostic,Alcohol abuse,Alcohol induced hallucinations
+Eu10200,Read,diagnostic,Alcohol abuse,[X]Mental and behav dis due to use alcohol: dependence syndr
+Eu10600,Read,diagnostic,Alcohol abuse,[X]Mental and behav dis due to use alcohol: amnesic syndrome
+E230000,Read,diagnostic,Alcohol abuse,"Acute alcoholic intoxication, unspecified, in alcoholism"
+E011z00,Read,diagnostic,Alcohol abuse,Alcohol amnestic syndrome NOS
+Z191.00,Read,diagnostic,Alcohol abuse,Alcohol detoxification
+E231000,Read,diagnostic,Alcohol abuse,Unspecified chronic alcoholism
+Eu10y00,Read,diagnostic,Alcohol abuse,[X]Men & behav dis due to use alcohol: oth men & behav dis
+F11x000,Read,diagnostic,Alcohol abuse,Cerebral degeneration due to alcoholism
+E012.00,Read,diagnostic,Alcohol abuse,Other alcoholic dementia
+7P22100,Read,diagnostic,Alcohol abuse,Delivery of rehabilitation for alcohol addiction
+E230100,Read,diagnostic,Alcohol abuse,Continuous acute alcoholic intoxication in alcoholism
+E230.11,Read,diagnostic,Alcohol abuse,Alcohol dependence with acute alcoholic intoxication
+E014.00,Read,diagnostic,Alcohol abuse,Pathological alcohol intoxication
+E230300,Read,diagnostic,Alcohol abuse,"Acute alcoholic intoxication in remission, in alcoholism"
+Eu10700,Read,diagnostic,Alcohol abuse,[X]Men & behav dis due alcoh: resid & late-onset psychot dis
+Eu10400,Read,diagnostic,Alcohol abuse,[X]Men & behav dis due alcohl: withdrawl state with delirium
+Eu10z00,Read,diagnostic,Alcohol abuse,[X]Ment & behav dis due use alcohol: unsp ment & behav dis
+C150500,Read,diagnostic,Alcohol abuse,Alcohol-induced pseudo-Cushing's syndrome
+Eu10512,Read,diagnostic,Alcohol abuse,[X]Alcoholic jealousy
+E01z.00,Read,diagnostic,Alcohol abuse,Alcoholic psychosis NOS
+8HkG.00,Read,diagnostic,Alcohol abuse,Referral to specialist alcohol treatment service
+136W.00,Read,diagnostic,Alcohol abuse,Alcohol misuse
+8IEA.00,Read,diagnostic,Alcohol abuse,Referral to community alcohol team declined
+8W2..00,Read,diagnostic,Alcohol abuse,Refer to MH services deferred until alcohol misuse resolved

@@ -1,0 +1,166 @@
+code,coding_system,entity,list_name,description
+Eu31.11,Read,diagnostic,Affective psychotic disorders,[X]Manic-depressive illness
+2257.00,Read,symptom,Affective psychotic disorders,O/E - depressed
+1B1E.00,Read,symptom,Affective psychotic disorders,Hallucinations
+1B17.00,Read,symptom,Affective psychotic disorders,Depressed
+E107.00,Read,diagnostic,Affective psychotic disorders,Schizo-affective schizophrenia
+R001.00,Read,symptom,Affective psychotic disorders,[D]Hallucinations
+E11..12,Read,diagnostic,Affective psychotic disorders,Depressive psychoses
+Eu30000,Read,diagnostic,Affective psychotic disorders,[X]Hypomania
+E114.00,Read,diagnostic,Affective psychotic disorders,"Bipolar affective disorder, currently manic"
+1B16.00,Read,symptom,Affective psychotic disorders,Agitated
+E115.00,Read,diagnostic,Affective psychotic disorders,"Bipolar affective disorder, currently depressed"
+Eu30z11,Read,diagnostic,Affective psychotic disorders,[X]Mania NOS
+Eu31500,Read,diagnostic,Affective psychotic disorders,[X]Bipolar affect dis cur epi severe depres with psyc symp
+1B17.11,Read,symptom,Affective psychotic disorders,C/O - feeling depressed
+Eu31.12,Read,diagnostic,Affective psychotic disorders,[X]Manic-depressive psychosis
+Eu31.00,Read,diagnostic,Affective psychotic disorders,[X]Bipolar affective disorder
+E130.00,Read,diagnostic,Affective psychotic disorders,Reactive depressive psychosis
+E11..11,Read,diagnostic,Affective psychotic disorders,Bipolar psychoses
+Eu0z.12,Read,symptom,Affective psychotic disorders,[X]Symptomatic psychosis NOS
+1BT..11,Read,symptom,Affective psychotic disorders,Low mood
+Eu25.00,Read,diagnostic,Affective psychotic disorders,[X]Schizoaffective disorders
+Eu30.11,Read,diagnostic,Affective psychotic disorders,"[X]Bipolar disorder, single manic episode"
+1B1U.00,Read,symptom,Affective psychotic disorders,Symptoms of depression
+1BT..00,Read,symptom,Affective psychotic disorders,Depressed mood
+1B1U.11,Read,symptom,Affective psychotic disorders,Depressive symptoms
+E107z00,Read,diagnostic,Affective psychotic disorders,Schizo-affective schizophrenia NOS
+Eu25100,Read,diagnostic,Affective psychotic disorders,"[X]Schizoaffective disorder, depressive type"
+146D.00,Read,diagnostic,Affective psychotic disorders,H/O: manic depressive disorder
+E11y000,Read,diagnostic,Affective psychotic disorders,Unspecified manic-depressive psychoses
+R001400,Read,symptom,Affective psychotic disorders,[D]Visual hallucinations
+Eu32300,Read,diagnostic,Affective psychotic disorders,[X]Severe depressive episode with psychotic symptoms
+R001000,Read,symptom,Affective psychotic disorders,"[D]Hallucinations, auditory"
+Eu30.00,Read,diagnostic,Affective psychotic disorders,[X]Manic episode
+E115.11,Read,diagnostic,Affective psychotic disorders,Manic-depressive - now depressed
+Eu30100,Read,diagnostic,Affective psychotic disorders,[X]Mania without psychotic symptoms
+E11..00,Read,diagnostic,Affective psychotic disorders,Affective psychoses
+E110100,Read,diagnostic,Affective psychotic disorders,"Single manic episode, mild"
+E117.00,Read,diagnostic,Affective psychotic disorders,Unspecified bipolar affective disorder
+F481K00,Read,symptom,Affective psychotic disorders,Visual hallucinations
+E115000,Read,diagnostic,Affective psychotic disorders,"Bipolar affective disorder, currently depressed, unspecified"
+E114300,Read,diagnostic,Affective psychotic disorders,"Bipolar affect disord, currently manic, severe, no psychosis"
+Eu31300,Read,diagnostic,Affective psychotic disorders,[X]Bipolar affect disorder cur epi mild or moderate depressn
+Eu31000,Read,diagnostic,Affective psychotic disorders,"[X]Bipolar affective disorder, current episode hypomanic"
+Eu33315,Read,diagnostic,Affective psychotic disorders,[X]Recurrent severe episodes of psychotic depression
+Eu25011,Read,diagnostic,Affective psychotic disorders,"[X]Schizoaffective psychosis, manic type"
+E114.11,Read,diagnostic,Affective psychotic disorders,Manic-depressive - now manic
+1BY..00,Read,symptom,Affective psychotic disorders,Elevated mood
+E110.11,Read,diagnostic,Affective psychotic disorders,Hypomanic psychoses
+212T.00,Read,diagnostic,Affective psychotic disorders,"Psychosis, schizophrenia + bipolar affective disord resolved"
+R001z00,Read,symptom,Affective psychotic disorders,[D]Hallucinations NOS
+E111000,Read,diagnostic,Affective psychotic disorders,"Recurrent manic episodes, unspecified"
+E110000,Read,diagnostic,Affective psychotic disorders,"Single manic episode, unspecified"
+Eu20400,Read,diagnostic,Affective psychotic disorders,[X]Post-schizophrenic depression
+Eu30200,Read,diagnostic,Affective psychotic disorders,[X]Mania with psychotic symptoms
+ZV11112,Read,diagnostic,Affective psychotic disorders,[V]Personal history of manic-depressive psychosis
+1S42.00,Read,diagnostic,Affective psychotic disorders,Manic mood
+Eu31400,Read,diagnostic,Affective psychotic disorders,"[X]Bipol aff disord, curr epis sev depress, no psychot symp"
+Eu33311,Read,diagnostic,Affective psychotic disorders,[X]Endogenous depression with psychotic symptoms
+ZV11111,Read,diagnostic,Affective psychotic disorders,[V]Personal history of manic-depressive psychosis
+Eu32313,Read,diagnostic,Affective psychotic disorders,[X]Single episode of psychotic depression
+Eu32311,Read,diagnostic,Affective psychotic disorders,[X]Single episode of major depression and psychotic symptoms
+E113400,Read,diagnostic,Affective psychotic disorders,"Recurrent major depressive episodes, severe, with psychosis"
+E117600,Read,diagnostic,Affective psychotic disorders,"Unspecified bipolar affective disorder, in full remission"
+E110200,Read,diagnostic,Affective psychotic disorders,"Single manic episode, moderate"
+E116100,Read,diagnostic,Affective psychotic disorders,"Mixed bipolar affective disorder, mild"
+1BQ..00,Read,symptom,Affective psychotic disorders,Loss of capacity for enjoyment
+E11..13,Read,diagnostic,Affective psychotic disorders,Manic psychoses
+E111.00,Read,diagnostic,Affective psychotic disorders,Recurrent manic episodes
+Eu31100,Read,diagnostic,Affective psychotic disorders,[X]Bipolar affect disorder cur epi manic wout psychotic symp
+Eu31700,Read,diagnostic,Affective psychotic disorders,"[X]Bipolar affective disorder, currently in remission"
+E111200,Read,diagnostic,Affective psychotic disorders,"Recurrent manic episodes, moderate"
+E115200,Read,diagnostic,Affective psychotic disorders,"Bipolar affective disorder, currently depressed, moderate"
+E117z00,Read,diagnostic,Affective psychotic disorders,"Unspecified bipolar affective disorder, NOS"
+Eu31200,Read,diagnostic,Affective psychotic disorders,[X]Bipolar affect disorder cur epi manic with psychotic symp
+Eu33312,Read,diagnostic,Affective psychotic disorders,"[X]Manic-depress psychosis,depressed type+psychotic symptoms"
+Eu32314,Read,diagnostic,Affective psychotic disorders,[X]Single episode of reactive depressive psychosis
+Eu33213,Read,diagnostic,Affective psychotic disorders,"[X]Manic-depress psychosis,depressd,no psychotic symptoms"
+E116.00,Read,diagnostic,Affective psychotic disorders,Mixed bipolar affective disorder
+E116000,Read,diagnostic,Affective psychotic disorders,"Mixed bipolar affective disorder, unspecified"
+Eu3z.11,Read,diagnostic,Affective psychotic disorders,[X]Affective psychosis NOS
+Eu33314,Read,diagnostic,Affective psychotic disorders,[X]Recurr severe episodes/psychogenic depressive psychosis
+Eu30y00,Read,diagnostic,Affective psychotic disorders,[X]Other manic episodes
+E112400,Read,diagnostic,Affective psychotic disorders,"Single major depressive episode, severe, with psychosis"
+E111400,Read,diagnostic,Affective psychotic disorders,"Recurrent manic episodes, severe, with psychosis"
+225C.00,Read,symptom,Affective psychotic disorders,O/E - elated
+Eu33313,Read,diagnostic,Affective psychotic disorders,[X]Recurr severe episodes/major depression+psychotic symptom
+Eu25z11,Read,diagnostic,Affective psychotic disorders,[X]Schizoaffective psychosis NOS
+E11zz00,Read,diagnostic,Affective psychotic disorders,Other affective psychosis NOS
+E11yz00,Read,diagnostic,Affective psychotic disorders,Other and unspecified manic-depressive psychoses NOS
+Eu25200,Read,diagnostic,Affective psychotic disorders,"[X]Schizoaffective disorder, mixed type"
+Eu31z00,Read,diagnostic,Affective psychotic disorders,"[X]Bipolar affective disorder, unspecified"
+Eu25000,Read,diagnostic,Affective psychotic disorders,"[X]Schizoaffective disorder, manic type"
+Eu25111,Read,diagnostic,Affective psychotic disorders,"[X]Schizoaffective psychosis, depressive type"
+E115300,Read,diagnostic,Affective psychotic disorders,"Bipolar affect disord, now depressed, severe, no psychosis"
+E115100,Read,diagnostic,Affective psychotic disorders,"Bipolar affective disorder, currently depressed, mild"
+E114000,Read,diagnostic,Affective psychotic disorders,"Bipolar affective disorder, currently manic, unspecified"
+E114100,Read,diagnostic,Affective psychotic disorders,"Bipolar affective disorder, currently manic, mild"
+E110z00,Read,diagnostic,Affective psychotic disorders,"Manic disorder, single episode NOS"
+E110.00,Read,diagnostic,Affective psychotic disorders,"Manic disorder, single episode"
+Eu30211,Read,diagnostic,Affective psychotic disorders,[X]Mania with mood-congruent psychotic symptoms
+E111600,Read,diagnostic,Affective psychotic disorders,"Recurrent manic episodes, in full remission"
+E115z00,Read,diagnostic,Affective psychotic disorders,"Bipolar affective disorder, currently depressed, NOS"
+Eu25212,Read,diagnostic,Affective psychotic disorders,[X]Mixed schizophrenic and affective psychosis
+Eu25z00,Read,diagnostic,Affective psychotic disorders,"[X]Schizoaffective disorder, unspecified"
+Eu33316,Read,diagnostic,Affective psychotic disorders,[X]Recurrent severe episodes/reactive depressive psychosis
+E11z.00,Read,diagnostic,Affective psychotic disorders,Other and unspecified affective psychoses
+E110300,Read,diagnostic,Affective psychotic disorders,"Single manic episode, severe without mention of psychosis"
+E107200,Read,diagnostic,Affective psychotic disorders,Chronic schizo-affective schizophrenia
+Eu30z00,Read,diagnostic,Affective psychotic disorders,"[X]Manic episode, unspecified"
+Eu31600,Read,diagnostic,Affective psychotic disorders,"[X]Bipolar affective disorder, current episode mixed"
+E111z00,Read,diagnostic,Affective psychotic disorders,Recurrent manic episode NOS
+E111100,Read,diagnostic,Affective psychotic disorders,"Recurrent manic episodes, mild"
+E114200,Read,diagnostic,Affective psychotic disorders,"Bipolar affective disorder, currently manic, moderate"
+Eu33300,Read,diagnostic,Affective psychotic disorders,[X]Recurrent depress disorder cur epi severe with psyc symp
+Eu30212,Read,diagnostic,Affective psychotic disorders,[X]Mania with mood-incongruent psychotic symptoms
+E117000,Read,diagnostic,Affective psychotic disorders,"Unspecified bipolar affective disorder, unspecified"
+E110400,Read,diagnostic,Affective psychotic disorders,"Single manic episode, severe, with psychosis"
+Eu31y12,Read,diagnostic,Affective psychotic disorders,[X]Recurrent manic episodes
+Eu32312,Read,diagnostic,Affective psychotic disorders,[X]Single episode of psychogenic depressive psychosis
+1BU..00,Read,symptom,Affective psychotic disorders,Loss of hope for the future
+Eu31y00,Read,diagnostic,Affective psychotic disorders,[X]Other bipolar affective disorders
+E116400,Read,diagnostic,Affective psychotic disorders,"Mixed bipolar affective disorder, severe, with psychosis"
+E11z000,Read,diagnostic,Affective psychotic disorders,Unspecified affective psychoses NOS
+E116600,Read,diagnostic,Affective psychotic disorders,"Mixed bipolar affective disorder, in full remission"
+E114400,Read,diagnostic,Affective psychotic disorders,"Bipolar affect disord, currently manic,severe with psychosis"
+E107500,Read,diagnostic,Affective psychotic disorders,Schizo-affective schizophrenia in remission
+E115600,Read,diagnostic,Affective psychotic disorders,"Bipolar affective disorder, now depressed, in full remission"
+E114z00,Read,diagnostic,Affective psychotic disorders,"Bipolar affective disorder, currently manic, NOS"
+Eu25y00,Read,diagnostic,Affective psychotic disorders,[X]Other schizoaffective disorders
+E107000,Read,diagnostic,Affective psychotic disorders,Unspecified schizo-affective schizophrenia
+E111500,Read,diagnostic,Affective psychotic disorders,"Recurrent manic episodes, partial or unspecified remission"
+E107300,Read,diagnostic,Affective psychotic disorders,Acute exacerbation subchronic schizo-affective schizophrenia
+E114500,Read,diagnostic,Affective psychotic disorders,"Bipolar affect disord,currently manic, part/unspec remission"
+E11y.00,Read,diagnostic,Affective psychotic disorders,Other and unspecified manic-depressive psychoses
+E107100,Read,diagnostic,Affective psychotic disorders,Subchronic schizo-affective schizophrenia
+E116200,Read,diagnostic,Affective psychotic disorders,"Mixed bipolar affective disorder, moderate"
+E116300,Read,diagnostic,Affective psychotic disorders,"Mixed bipolar affective disorder, severe, without psychosis"
+E107400,Read,diagnostic,Affective psychotic disorders,Acute exacerbation of chronic schizo-affective schizophrenia
+E116z00,Read,diagnostic,Affective psychotic disorders,"Mixed bipolar affective disorder, NOS"
+E116500,Read,diagnostic,Affective psychotic disorders,"Mixed bipolar affective disorder, partial/unspec remission"
+E117100,Read,diagnostic,Affective psychotic disorders,"Unspecified bipolar affective disorder, mild"
+E115400,Read,diagnostic,Affective psychotic disorders,"Bipolar affect disord, now depressed, severe with psychosis"
+E114600,Read,diagnostic,Affective psychotic disorders,"Bipolar affective disorder, currently manic, full remission"
+E111300,Read,diagnostic,Affective psychotic disorders,"Recurrent manic episodes, severe without mention psychosis"
+Eu31.13,Read,diagnostic,Affective psychotic disorders,[X]Manic-depressive reaction
+E117400,Read,diagnostic,Affective psychotic disorders,"Unspecified bipolar affective disorder,severe with psychosis"
+E117200,Read,diagnostic,Affective psychotic disorders,"Unspecified bipolar affective disorder, moderate"
+E110600,Read,diagnostic,Affective psychotic disorders,Single manic episode in full remission
+E11y300,Read,diagnostic,Affective psychotic disorders,Other mixed manic-depressive psychoses
+E117500,Read,diagnostic,Affective psychotic disorders,"Unspecified bipolar affect disord, partial/unspec remission"
+E11y100,Read,diagnostic,Affective psychotic disorders,Atypical manic disorder
+E115500,Read,diagnostic,Affective psychotic disorders,"Bipolar affect disord, now depressed, part/unspec remission"
+E117300,Read,diagnostic,Affective psychotic disorders,"Unspecified bipolar affective disorder, severe, no psychosis"
+Eu31y11,Read,diagnostic,Affective psychotic disorders,[X]Bipolar II disorder
+212V.00,Read,diagnostic,Affective psychotic disorders,Bipolar affective disorder resolved
+Eu32800,Read,diagnostic,Affective psychotic disorders,"[X]Major depression, severe with psychotic symptoms"
+E107.11,Read,diagnostic,Affective psychotic disorders,Cyclic schizophrenia
+1JJ..00,Read,symptom,Affective psychotic disorders,Suspected depression
+Eu32900,Read,diagnostic,Affective psychotic disorders,"[X]Single major depr ep, severe with psych, psych in remiss"
+Eu32A00,Read,diagnostic,Affective psychotic disorders,"[X]Recurr major depr ep, severe with psych, psych in remiss"
+Eu31900,Read,diagnostic,Affective psychotic disorders,[X]Bipolar affective disorder type II
+Eu31911,Read,diagnostic,Affective psychotic disorders,[X]Bipolar II disorder
+Eu31800,Read,diagnostic,Affective psychotic disorders,[X]Bipolar affective disorder type I
+Eu25211,Read,diagnostic,Affective psychotic disorders,[X]Cyclic schizophrenia
+E110500,Read,diagnostic,Affective psychotic disorders,Single manic episode in partial or unspecified remission

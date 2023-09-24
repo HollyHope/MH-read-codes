@@ -1,0 +1,281 @@
+code,coding_system,entity,list_name,description
+1B13.00,Read,symptom,Anxiety and neurotic disorders,Anxiousness
+E200111,Read,diagnostic,Anxiety and neurotic disorders,Panic attack
+1B12.12,Read,symptom,Anxiety and neurotic disorders,Tension - nervous
+E200.00,Read,diagnostic,Anxiety and neurotic disorders,Anxiety states
+E200300,Read,diagnostic,Anxiety and neurotic disorders,Anxiety with depression
+E20z.11,Read,diagnostic,Anxiety and neurotic disorders,Nervous breakdown
+Eu41111,Read,diagnostic,Anxiety and neurotic disorders,[X]Anxiety neurosis
+E207.00,Read,diagnostic,Anxiety and neurotic disorders,Hypochondriasis
+E202B00,Read,diagnostic,Anxiety and neurotic disorders,Cancer phobia
+E205.11,Read,symptom,Anxiety and neurotic disorders,Nervous exhaustion
+E202800,Read,diagnostic,Anxiety and neurotic disorders,Claustrophobia
+E200400,Read,diagnostic,Anxiety and neurotic disorders,Chronic anxiety
+E202.00,Read,diagnostic,Anxiety and neurotic disorders,Phobic disorders
+E203100,Read,diagnostic,Anxiety and neurotic disorders,Obsessional neurosis
+E201.00,Read,diagnostic,Anxiety and neurotic disorders,Hysteria
+E202000,Read,diagnostic,Anxiety and neurotic disorders,Phobia unspecified
+E202C00,Read,diagnostic,Anxiety and neurotic disorders,Dental phobia
+R2y2.00,Read,symptom,Anxiety and neurotic disorders,[D]Nervousness
+Eu40000,Read,diagnostic,Anxiety and neurotic disorders,[X]Agoraphobia
+1B14.11,Read,symptom,Anxiety and neurotic disorders,Tenseness - symptom
+E264200,Read,diagnostic,Anxiety and neurotic disorders,Cyclical vomiting - psychogenic
+E202100,Read,diagnostic,Anxiety and neurotic disorders,Agoraphobia with panic attacks
+E203.00,Read,diagnostic,Anxiety and neurotic disorders,Obsessive-compulsive disorders
+E205.00,Read,diagnostic,Anxiety and neurotic disorders,Neurasthenia - nervous debility
+1466.00,Read,symptom,Anxiety and neurotic disorders,H/O: anxiety state
+E201100,Read,diagnostic,Anxiety and neurotic disorders,Hysterical blindness
+1B12.11,Read,symptom,Anxiety and neurotic disorders,'Nerves'
+E20y100,Read,diagnostic,Anxiety and neurotic disorders,Writer's cramp neurosis
+E264400,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic dyspepsia
+E200100,Read,diagnostic,Anxiety and neurotic disorders,Panic disorder
+Eu41012,Read,diagnostic,Anxiety and neurotic disorders,[X]Panic state
+E201z11,Read,diagnostic,Anxiety and neurotic disorders,Aphonia - hysterical
+E201612,Read,diagnostic,Anxiety and neurotic disorders,Globus hystericus
+E202A00,Read,diagnostic,Anxiety and neurotic disorders,Fear of flying
+Eu43100,Read,diagnostic,Anxiety and neurotic disorders,[X]Post - traumatic stress disorder
+E201700,Read,diagnostic,Anxiety and neurotic disorders,Hysterical amnesia
+E200z00,Read,diagnostic,Anxiety and neurotic disorders,Anxiety state NOS
+E200500,Read,diagnostic,Anxiety and neurotic disorders,Recurrent anxiety
+E200200,Read,diagnostic,Anxiety and neurotic disorders,Generalised anxiety disorder
+E201800,Read,diagnostic,Anxiety and neurotic disorders,Hysterical fugue
+E264000,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic aerophagy
+E26z.00,Read,diagnostic,Anxiety and neurotic disorders,Psychosomatic disorder NOS
+E20..00,Read,diagnostic,Anxiety and neurotic disorders,Neurotic disorders
+Eu42.00,Read,diagnostic,Anxiety and neurotic disorders,[X]Obsessive - compulsive disorder
+E206.00,Read,diagnostic,Anxiety and neurotic disorders,Depersonalisation syndrome
+1B1H.11,Read,symptom,Anxiety and neurotic disorders,Fear
+Eu41.00,Read,diagnostic,Anxiety and neurotic disorders,[X]Other anxiety disorders
+E203000,Read,diagnostic,Anxiety and neurotic disorders,Compulsive neurosis
+1B13.11,Read,symptom,Anxiety and neurotic disorders,Anxiousness - symptom
+E202E00,Read,diagnostic,Anxiety and neurotic disorders,Fear of pregnancy
+Eu41011,Read,diagnostic,Anxiety and neurotic disorders,[X]Panic attack
+E200000,Read,diagnostic,Anxiety and neurotic disorders,Anxiety state unspecified
+Eu40z11,Read,diagnostic,Anxiety and neurotic disorders,[X]Phobia NOS
+Eu45200,Read,diagnostic,Anxiety and neurotic disorders,[X]Hypochondriacal disorder
+Eu41211,Read,diagnostic,Anxiety and neurotic disorders,[X]Mild anxiety depression
+Eu43015,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychic shock
+Eu41000,Read,diagnostic,Anxiety and neurotic disorders,[X]Panic disorder [episodic paroxysmal anxiety]
+2259.00,Read,symptom,Anxiety and neurotic disorders,O/E - nervous
+8G94.00,Read,diagnostic,Anxiety and neurotic disorders,Anxiety management training
+Eu46100,Read,diagnostic,Anxiety and neurotic disorders,[X]Depersonalization - derealization syndrome
+Eu40.00,Read,diagnostic,Anxiety and neurotic disorders,[X]Phobic anxiety disorders
+Eu46011,Read,diagnostic,Anxiety and neurotic disorders,[X]Fatigue syndrome
+E2...00,Read,diagnostic,Anxiety and neurotic disorders,"Neurotic, personality and other nonpsychotic disorders"
+Eu40200,Read,diagnostic,Anxiety and neurotic disorders,[X]Specific (isolated) phobias
+E202.12,Read,diagnostic,Anxiety and neurotic disorders,Phobic anxiety
+E264311,Read,diagnostic,Anxiety and neurotic disorders,Spurious diarrhoea
+Eu41100,Read,diagnostic,Anxiety and neurotic disorders,[X]Generalized anxiety disorder
+E202D00,Read,diagnostic,Anxiety and neurotic disorders,Fear of death
+R2y2.12,Read,symptom,Anxiety and neurotic disorders,[D]Nervous tension
+Eu45214,Read,diagnostic,Anxiety and neurotic disorders,[X]Hypochondriasis
+Z7CG400,Read,symptom,Anxiety and neurotic disorders,Flashbacks
+Eu40213,Read,diagnostic,Anxiety and neurotic disorders,[X]Claustrophobia
+Eu46y13,Read,diagnostic,Anxiety and neurotic disorders,"[X]Occupational neurosis, including writer's cramp"
+Eu44511,Read,diagnostic,Anxiety and neurotic disorders,[X]Pseudoseizures
+Eu40100,Read,diagnostic,Anxiety and neurotic disorders,[X]Social phobias
+146G.00,Read,diagnostic,Anxiety and neurotic disorders,H/O: agoraphobia
+1B1V.00,Read,symptom,Anxiety and neurotic disorders,C/O - panic attack
+Eu41200,Read,diagnostic,Anxiety and neurotic disorders,[X]Mixed anxiety and depressive disorder
+Eu44411,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic aphonia
+Eu45500,Read,diagnostic,Anxiety and neurotic disorders,[X]Globus pharyngeus
+Eu40300,Read,diagnostic,Anxiety and neurotic disorders,[X]Needle phobia
+Eu45211,Read,diagnostic,Anxiety and neurotic disorders,[X]Body dysmorphic disorder
+Eu40214,Read,diagnostic,Anxiety and neurotic disorders,[X]Simple phobia
+Eu45316,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic cough
+Eu45322,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic hyperventilat
+E202200,Read,diagnostic,Anxiety and neurotic disorders,Agoraphobia without mention of panic attacks
+2258.00,Read,symptom,Anxiety and neurotic disorders,O/E - anxious
+E202z00,Read,diagnostic,Anxiety and neurotic disorders,Phobic disorder NOS
+E20z.00,Read,diagnostic,Anxiety and neurotic disorders,Neurotic disorder NOS
+Eu40012,Read,diagnostic,Anxiety and neurotic disorders,[X]Panic disorder with agoraphobia
+E262z00,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic cardiovascular symptom NOS
+E260z00,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic musculoskeletal symptoms NOS
+Eu34114,Read,diagnostic,Anxiety and neurotic disorders,[X]Persistant anxiety depression
+E263z00,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic skin symptoms NOS
+E262200,Read,diagnostic,Anxiety and neurotic disorders,Neurocirculatory asthenia
+E262000,Read,diagnostic,Anxiety and neurotic disorders,Cardiac neurosis
+E20y000,Read,diagnostic,Anxiety and neurotic disorders,Somatization disorder
+E264300,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic diarrhoea
+E201600,Read,diagnostic,Anxiety and neurotic disorders,Other conversion disorder
+E261100,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic cough
+E203z00,Read,diagnostic,Anxiety and neurotic disorders,Obsessive-compulsive disorder NOS
+E264500,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic constipation
+E263000,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic pruritus
+E202300,Read,diagnostic,Anxiety and neurotic disorders,"Social phobia, fear of eating in public"
+E201500,Read,diagnostic,Anxiety and neurotic disorders,Hysterical seizures
+Eu45324,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic IBS
+Eu46000,Read,diagnostic,Anxiety and neurotic disorders,[X]Neurasthenia
+E202.11,Read,diagnostic,Anxiety and neurotic disorders,Social phobic disorders
+Eu45y13,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic pruritis
+Eu45318,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic dyspepsia
+Eu40011,Read,diagnostic,Anxiety and neurotic disorders,[X]Agoraphobia without history of panic disorder
+Eu44y13,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic confusion
+Eu45323,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic freq micturit
+R2y2.11,Read,symptom,Anxiety and neurotic disorders,[D]Nerves
+Eu45.00,Read,diagnostic,Anxiety and neurotic disorders,[X]Somatoform disorders
+Eu40212,Read,diagnostic,Anxiety and neurotic disorders,[X]Animal phobias
+Eu42200,Read,diagnostic,Anxiety and neurotic disorders,[X]Mixed obsessional thoughts and acts
+1Ba0.00,Read,symptom,Anxiety and neurotic disorders,Obsessional thoughts
+E202500,Read,diagnostic,Anxiety and neurotic disorders,"Social phobia, fear of public washing"
+1Bb..00,Read,symptom,Anxiety and neurotic disorders,Specific fear
+Eu44412,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic dysphonia
+225J.00,Read,diagnostic,Anxiety and neurotic disorders,O/E - panic attack
+Eu45z11,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychosomatic disorder NOS
+E261300,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic hyperventilation
+E265100,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic vaginismus
+Eu42000,Read,diagnostic,Anxiety and neurotic disorders,[X]Predominantly obsessional thoughts or ruminations
+E28z.12,Read,diagnostic,Anxiety and neurotic disorders,Flying phobia
+Eu45y12,Read,diagnostic,Anxiety and neurotic disorders,[X]Globus hystericus
+Eu46z11,Read,diagnostic,Anxiety and neurotic disorders,[X]Neurosis NOS
+Eu42.12,Read,diagnostic,Anxiety and neurotic disorders,[X]Obsessive-compulsive neurosis
+Eu42100,Read,diagnostic,Anxiety and neurotic disorders,[X]Predominantly compulsive acts [obsessional rituals]
+E13y000,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic stupor
+Eu44.00,Read,diagnostic,Anxiety and neurotic disorders,[X]Dissociative [conversion] disorders
+Z4I7.00,Read,symptom,Anxiety and neurotic disorders,Acknowledging anxiety
+1P3..00,Read,symptom,Anxiety and neurotic disorders,Compulsive behaviour
+Eu42z00,Read,diagnostic,Anxiety and neurotic disorders,"[X]Obsessive-compulsive disorder, unspecified"
+E201z00,Read,diagnostic,Anxiety and neurotic disorders,Hysteria NOS
+E261400,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic yawning
+E201A00,Read,diagnostic,Anxiety and neurotic disorders,Dissociative reaction unspecified
+E201300,Read,diagnostic,Anxiety and neurotic disorders,Hysterical tremor
+Eu45011,Read,diagnostic,Anxiety and neurotic disorders,[X]Multiple psychosomatic disorder
+Eu4..00,Read,diagnostic,Anxiety and neurotic disorders,"[X]Neurotic, stress - related and somoform disorders"
+Eu41z00,Read,diagnostic,Anxiety and neurotic disorders,"[X]Anxiety disorder, unspecified"
+Eu41y00,Read,diagnostic,Anxiety and neurotic disorders,[X]Other specified anxiety disorders
+Eu42.11,Read,diagnostic,Anxiety and neurotic disorders,[X]Anankastic neurosis
+Eu45213,Read,diagnostic,Anxiety and neurotic disorders,[X]Hypochondriacal neurosis
+Eu45000,Read,diagnostic,Anxiety and neurotic disorders,[X]Somatization disorder
+E201C00,Read,diagnostic,Anxiety and neurotic disorders,Phantom pregnancy
+E201z12,Read,diagnostic,Anxiety and neurotic disorders,Ataxia - hysterical
+E283100,Read,diagnostic,Anxiety and neurotic disorders,Acute posttrauma stress state
+E030000,Read,diagnostic,Anxiety and neurotic disorders,"Acute confusional state, post traumatic"
+Eu41z11,Read,diagnostic,Anxiety and neurotic disorders,[X]Anxiety NOS
+1S1..00,Read,symptom,Anxiety and neurotic disorders,Flashbacks
+Z4I7211,Read,symptom,Anxiety and neurotic disorders,Reducing anxiety
+Eu44.13,Read,diagnostic,Anxiety and neurotic disorders,[X]Hysteria
+Eu44600,Read,diagnostic,Anxiety and neurotic disorders,[X]Dissociative anaesthesia and sensory loss
+Eu40y00,Read,diagnostic,Anxiety and neurotic disorders,[X]Other phobic anxiety disorders
+E28z.13,Read,diagnostic,Anxiety and neurotic disorders,Stage fright
+Eu46.00,Read,diagnostic,Anxiety and neurotic disorders,[X]Other neurotic disorders
+E202600,Read,diagnostic,Anxiety and neurotic disorders,Acrophobia
+Eu41y11,Read,diagnostic,Anxiety and neurotic disorders,[X]Anxiety hysteria
+Eu44.14,Read,diagnostic,Anxiety and neurotic disorders,[X]Hysterical psychosis
+E292312,Read,diagnostic,Anxiety and neurotic disorders,Specific work inhibition
+Z4I7200,Read,symptom,Anxiety and neurotic disorders,Alleviating anxiety
+8HHp.00,Read,diagnostic,Anxiety and neurotic disorders,Referral for guided self-help for anxiety
+E202700,Read,diagnostic,Anxiety and neurotic disorders,Animal phobia
+E201B00,Read,diagnostic,Anxiety and neurotic disorders,Compensation neurosis
+Eu45413,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic headache
+E262.00,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic cardiovascular symptoms
+E263.00,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic skin symptoms
+1B12.00,Read,symptom,Anxiety and neurotic disorders,'Nerves' - nervousness
+E131.00,Read,diagnostic,Anxiety and neurotic disorders,Acute hysterical psychosis
+Eu45400,Read,diagnostic,Anxiety and neurotic disorders,[X]Persistent somatoform pain disorder
+Eu45212,Read,diagnostic,Anxiety and neurotic disorders,[X]Dysmorphophobia nondelusional
+E262300,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic cardiovascular disorder
+E264.00,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic gastrointestinal tract symptoms
+E202900,Read,diagnostic,Anxiety and neurotic disorders,Fear of crowds
+E202400,Read,diagnostic,Anxiety and neurotic disorders,"Social phobia, fear of public speaking"
+E261000,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic air hunger
+Eu43111,Read,diagnostic,Anxiety and neurotic disorders,[X]Traumatic neurosis
+E29y100,Read,diagnostic,Anxiety and neurotic disorders,Other post-traumatic stress disorder
+Eu45312,Read,diagnostic,Anxiety and neurotic disorders,[X]Da Costa's syndrome
+E201511,Read,diagnostic,Anxiety and neurotic disorders,Fit - hysterical
+Eu40z00,Read,diagnostic,Anxiety and neurotic disorders,"[X]Phobic anxiety disorder, unspecified"
+E261z00,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic respiratory symptom NOS
+E201400,Read,diagnostic,Anxiety and neurotic disorders,Hysterical paralysis
+Eu45111,Read,diagnostic,Anxiety and neurotic disorders,[X]Undifferentiated psychosomatic disorder
+Eu44400,Read,diagnostic,Anxiety and neurotic disorders,[X]Dissociative motor disorders
+Eu44.11,Read,diagnostic,Anxiety and neurotic disorders,[X]Conversion hysteria
+Eu41112,Read,diagnostic,Anxiety and neurotic disorders,[X]Anxiety reaction
+Eu45y14,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic torticollis
+Eu45414,Read,diagnostic,Anxiety and neurotic disorders,[X]Somatoform pain disorder
+Eu52611,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic dyspareunia
+E264.11,Read,diagnostic,Anxiety and neurotic disorders,Globus abdominalis
+E261.00,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic respiratory symptoms
+Eu45412,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic backache
+E202z11,Read,diagnostic,Anxiety and neurotic disorders,Weight fixation
+Eu42y00,Read,diagnostic,Anxiety and neurotic disorders,[X]Other obsessive-compulsive disorders
+E20y200,Read,diagnostic,Anxiety and neurotic disorders,Other occupational neurosis
+Eu44300,Read,diagnostic,Anxiety and neurotic disorders,[X]Trance and possession disorders
+Eu44100,Read,diagnostic,Anxiety and neurotic disorders,[X]Dissociative fugue
+Eu44y12,Read,diagnostic,Anxiety and neurotic disorders,[X]Multiple personality
+E201z13,Read,diagnostic,Anxiety and neurotic disorders,Ganser's syndrome - hysterical
+E278.00,Read,diagnostic,Anxiety and neurotic disorders,Psychalgia
+Eu44000,Read,diagnostic,Anxiety and neurotic disorders,[X]Dissociative amnesia
+Eu45300,Read,diagnostic,Anxiety and neurotic disorders,[X]Somatoform autonomic dysfunction
+E201000,Read,diagnostic,Anxiety and neurotic disorders,Hysteria unspecified
+E261500,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic aphonia
+E20y.00,Read,diagnostic,Anxiety and neurotic disorders,Other neurotic disorders
+E2z..00,Read,diagnostic,Anxiety and neurotic disorders,Neuroses or other mental disorder NOS
+Eu40112,Read,diagnostic,Anxiety and neurotic disorders,[X]Social neurosis
+E20yz00,Read,diagnostic,Anxiety and neurotic disorders,Other neurotic disorder NOS
+E201900,Read,diagnostic,Anxiety and neurotic disorders,Multiple personality
+Eu45317,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic diarrhoea
+E260.00,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic musculoskeletal symptoms
+Eu45311,Read,diagnostic,Anxiety and neurotic disorders,[X]Cardiac neurosis
+Eu41300,Read,diagnostic,Anxiety and neurotic disorders,[X]Other mixed anxiety disorders
+Eu46y00,Read,diagnostic,Anxiety and neurotic disorders,[X]Other specified neurotic disorders
+E265200,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic dysmenorrhea
+Eu46y16,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic syncope
+E201200,Read,diagnostic,Anxiety and neurotic disorders,Hysterical deafness
+E278200,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic backache
+E201611,Read,diagnostic,Anxiety and neurotic disorders,"Astasia - abasia, hysterical"
+Eu44y11,Read,diagnostic,Anxiety and neurotic disorders,[X]Ganser's syndrome
+Eu45y11,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic dysmenorrhoea
+E203.11,Read,diagnostic,Anxiety and neurotic disorders,Anancastic neurosis
+Eu46y12,Read,diagnostic,Anxiety and neurotic disorders,[X]Dhat syndrome
+Eu45320,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic flatulence
+E261200,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic hiccough
+E260000,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic paralysis
+Eu45z00,Read,diagnostic,Anxiety and neurotic disorders,"[X]Somatoform disorder, unspecified"
+Eu44z00,Read,diagnostic,Anxiety and neurotic disorders,"[X]Dissociative [conversion] disorder, unspecified"
+Eu46z00,Read,diagnostic,Anxiety and neurotic disorders,"[X]Neurotic disorder, unspecified"
+E2y..00,Read,diagnostic,Anxiety and neurotic disorders,Other specified neuroses or other mental disorders
+Eu44611,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic deafness
+Eu41113,Read,diagnostic,Anxiety and neurotic disorders,[X]Anxiety state
+Eu45314,Read,diagnostic,Anxiety and neurotic disorders,[X]Neurocirculatory asthenia
+Eu44.12,Read,diagnostic,Anxiety and neurotic disorders,[X]Conversion reaction
+Eu45319,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic dysuria
+Z7CG500,Read,symptom,Anxiety and neurotic disorders,Reliving traumatic memories
+Eu45321,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic hiccough
+E278000,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic pain unspecified
+E278z00,Read,diagnostic,Anxiety and neurotic disorders,Psychalgia NOS
+Eu45411,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychalgia
+E265300,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic dysuria
+Eu44200,Read,diagnostic,Anxiety and neurotic disorders,[X]Dissociative stupor
+E260100,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic torticollis
+E20y011,Read,diagnostic,Anxiety and neurotic disorders,Briquet's disorder
+Eu44500,Read,diagnostic,Anxiety and neurotic disorders,[X]Dissociative convulsions
+Eu45100,Read,diagnostic,Anxiety and neurotic disorders,[X]Undifferentiated somatoform disorder
+Eu45012,Read,diagnostic,Anxiety and neurotic disorders,[X]Briquet's syndrome
+E031000,Read,diagnostic,Anxiety and neurotic disorders,"Subacute confusional state, post traumatic"
+Eu46y14,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychasthenia
+Eu45y00,Read,diagnostic,Anxiety and neurotic disorders,[X]Other somatoform disorders
+E292300,Read,diagnostic,Anxiety and neurotic disorders,Specific academic or work inhibition
+E26y.00,Read,diagnostic,Anxiety and neurotic disorders,Other psychogenic malfunction
+Z4I7100,Read,symptom,Anxiety and neurotic disorders,Recognising anxiety
+Eu45313,Read,diagnostic,Anxiety and neurotic disorders,[X]Gastric neurosis
+8G52.00,Read,diagnostic,Anxiety and neurotic disorders,Antiphobic therapy
+Eu44y00,Read,diagnostic,Anxiety and neurotic disorders,[X]Other dissociative [conversion] disorders
+Eu45215,Read,diagnostic,Anxiety and neurotic disorders,[X]Nosophobia
+E292311,Read,diagnostic,Anxiety and neurotic disorders,Specific academic or work inhibition
+Eu40z12,Read,diagnostic,Anxiety and neurotic disorders,[X]Phobic state NOS
+Eu40211,Read,diagnostic,Anxiety and neurotic disorders,[X]Acrophobia
+Eu44y14,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic twilight state
+E265.00,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic genitourinary tract symptoms
+E264z00,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic gastrointestinal tract symptom NOS
+E20y300,Read,diagnostic,Anxiety and neurotic disorders,Psychasthenic neurosis
+E265z00,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic genitourinary tract symptom NOS
+Eu44700,Read,diagnostic,Anxiety and neurotic disorders,[X]Mixed dissociative [conversion] disorders
+E267.00,Read,diagnostic,Anxiety and neurotic disorders,Psychogenic symptom of special sense organ
+Eu46y15,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychasthenia neurosis
+Eu45325,Read,diagnostic,Anxiety and neurotic disorders,[X]Psychogenic pylorospasm
+1B13.12,Read,symptom,Anxiety and neurotic disorders,Anxious
+E26yz00,Read,diagnostic,Anxiety and neurotic disorders,Other psychogenic malfunction NOS
+ZS7C700,Read,diagnostic,Anxiety and neurotic disorders,Post-traumatic mutism
+Eu45511,Read,diagnostic,Anxiety and neurotic disorders,[X]Globus hystericus
+Eu46y11,Read,diagnostic,Anxiety and neurotic disorders,[X]Briquet's disorder
+Eu43400,Read,diagnostic,Anxiety and neurotic disorders,[X]Chron post-traumatic stress disorder follow military comb
+Eu43300,Read,diagnostic,Anxiety and neurotic disorders,[X]Acute post-traumatic stress disorder follow military comb
